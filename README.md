@@ -13,7 +13,7 @@ All my brothers and sister, it is very important to understand that we are here 
 
 ## Tutorials
 
-**001 - Building a Notes App in Flutter - UI example:** \[Source]()\- In this tutorial we break down the UI into Flutter Widgets, complete our layout and then tweak to get our final design to match our screenshots.
+**001 - Building a Notes App in Flutter - UI example:** [Source]()- In this tutorial we break down the UI into Flutter Widgets, complete our layout and then tweak to get our final design to match our screenshots.
 
 
 
