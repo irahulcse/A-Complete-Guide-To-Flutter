@@ -1,0 +1,23 @@
+[
+    {
+        "name" : "rahul",
+        "age":"26",
+        "height":"124",
+        "gender":"Male",
+        "hair_colour":"black"
+    },
+    {
+        "name" : "Rohan",
+        "age":"23",
+        "height":"121",
+        "gender":"Male",
+        "hair_colour":"black"
+    },
+    {
+        "name" : "rahul",
+        "age":"26",
+        "height":"124",
+        "gender":"male",
+        "hair_colour":"black"
+    }
+]
