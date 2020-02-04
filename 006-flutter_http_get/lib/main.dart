@@ -55,7 +55,6 @@ Future<String>getJsonData() async{
             return new Container(
               child: new Center(
                 child: new Column(
-                  crossAxisAlignment: CrossAxisAlignment.stretch,
                   children: <Widget>[
                     new Card(
                       child:new Container(
@@ -63,6 +62,14 @@ Future<String>getJsonData() async{
                         padding: const EdgeInsets.all(20.0),
                       ),
                     ),
+                    new Column(
+                      new Card(
+                      child: new Container(
+                        child:new Text(data[index]['height']),
+                        padding: const EdgeInsets.all(10.0),
+                      ),  
+                    ),
+                  ),
                   ],
                 ),
               ),
