@@ -4,7 +4,10 @@ This repo contains all the source code posted on Medium and also contains all th
 All Tutorials plus additional snippets and shorter posts can be found on the [Medium Page](https://medium.com/boring-apps).
 
 <a href='https://twitter.com/1rahulchandra1' target='_blank'><img height='36' style='border:0px;height:36px;' src='http://victoryoutreach.org/wp-content/uploads/2014/11/follow-us-on-twitter.png' border='0' alt='Follow us on Twitter' /></a>
-Please clone and star this repo to stay up to date on changes.
+
+
+## Contribution:
+Please clone and star this repo to stay up to date on changes. If anyone, would like to contribute to it. You can open the issue and start contributing to it.
 
 ## Education:
 All my brothers and sister, it is very important to understand that we are here to learn and excel in our professional life. So it's not really important from where we learn the stuff either from Youtube, Medium etc. If any one of you had some great website to share. Pls open an issue. I am looking forward to create the one of the **Biggest Repository On Flutter**, so that any one can learn from it.
@@ -17,7 +20,7 @@ All my brothers and sister, it is very important to understand that we are here 
 
 
 
-# Git workflow best practices: 
+# Some Git Commands for Best Workflow Practices: 
 You can follow the below workflow, if you are new to Git. 
 
 ## Initial setup
