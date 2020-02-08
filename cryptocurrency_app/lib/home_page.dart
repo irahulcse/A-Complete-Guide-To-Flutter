@@ -44,7 +44,7 @@ List currencies;
             final MaterialColor color=_colors[index%_colors.length];
             return _getListViewUi(currency,color);
           },
-        ),
+        ),  
       ),
     );
   }
