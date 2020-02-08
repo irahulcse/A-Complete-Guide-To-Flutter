@@ -3,7 +3,7 @@ This repo contains all the source code posted on Medium and also contains all th
 
 All Tutorials plus additional snippets and shorter posts can be found on the [Medium Page](https://medium.com/boring-apps).
 
-<a href='https://twitter.com/1rahulchandra1' target='_blank'><img height='36' style='border:0px;height:36px;' src='http://victoryoutreach.org/wp-content/uploads/2014/11/follow-us-on-twitter.png' border='0' alt='Follow us on Twitter' /></a>
+<a href='https://twitter.com/1rahulchandra1' target='_blank'><img height='60' style='border:0px;height:36px;' src='http://victoryoutreach.org/wp-content/uploads/2014/11/follow-us-on-twitter.png' border='0' alt='Follow us on Twitter' /></a>
 
 
 ## Contribution:
