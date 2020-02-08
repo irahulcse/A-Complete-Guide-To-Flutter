@@ -67,6 +67,19 @@ class HomePage extends StatelessWidget {
                 );
               },
             ),
+             new ListTile(
+              title: new Text("Page 3"),
+              trailing: new Icon(Icons.arrow_downward),
+              onTap:(){
+                Navigator.of(context).pop();
+                Navigator.of(context).push(
+                  new MaterialPageRoute(
+                    builder: (BuildContext context)=>
+                      new NewPage("Page 3"),
+                  )
+                );
+              },
+            ),
             new Divider(),
             new ListTile(
               title: new Text("Close"),
