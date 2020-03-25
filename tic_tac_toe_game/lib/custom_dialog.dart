@@ -7,7 +7,7 @@ class CustomDialog extends StatelessWidget {
   final actionText;
 
   //const CustomDialog({Key key, this.title, this.content, this.callback, this.actionText}) : super(key: key);
-  CustomDialog(
+  CustomDialog(String s, 
       {this.title, this.content, this.callback, this.actionText = "Reset"});
 
   @override
