@@ -43,23 +43,49 @@ class _HomePageState extends State<HomePage> {
         title: Text('Quiz App'),
         elevation: 0.0,
       ),
-      body: new FutureBuilder(
-        future: fetchQuestions(),
-        builder: (BuildContext context, AsyncSnapshot snapshot) {
-          switch (snapshot.connectionState) {
-            case ConnectionState.none:
-              return Text("Press Hold To Start:");
-            case ConnectionState.active:
-            case ConnectionState.waiting:
-              return Center(
-                child: CircularProgressIndicator(),
-              );
-            case ConnectionState.done:
-              if (snapshot.hasError) return Container();
-              return questionList();
-          }
-          return null;
-        },
+      body: RefreshIndicator(
+        onRefresh: fetchQuestions,
+        child: new FutureBuilder(
+          future: fetchQuestions(),
+          builder: (BuildContext context, AsyncSnapshot snapshot) {
+            switch (snapshot.connectionState) {
+              case ConnectionState.none:
+                return Text("Press Hold To Start:");
+              case ConnectionState.active:
+              case ConnectionState.waiting:
+                return Center(
+                  child: CircularProgressIndicator(),
+                );
+              case ConnectionState.done:
+                if (snapshot.hasError) return errorData(snapshot);
+                return questionList();
+            }
+            return null;
+          },
+        ),
+      ),
+    );
+  }
+
+  Padding errorData(AsyncSnapshot snapshot) {
+    return Padding(
+      padding: const EdgeInsets.all(12.0),
+      child: Column(
+        children: <Widget>[
+          Text("Error: ${snapshot.error}"),
+          SizedBox(
+            height: 12.0,
+          ),
+          RaisedButton(
+            onPressed: () {
+              fetchQuestions();
+              setState(() {
+                
+              });
+            },
+            child: Text('Try Again'),
+          ),
+        ],
       ),
     );
   }
