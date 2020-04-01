@@ -1,9 +1,9 @@
 ![Image](assets/banner.png)
 
-# A-Complete-Guide-To-Flutter :boom:
-This repo contains all the source code posted on Medium and also contains all the projects which had been created till now.
+# A-Complete-Guide-To-Flutter(Mini Apps) :boom:
+All the Mini Apps coded in Dart Language and live working project hosted on GitHub using the Flutter Mobile Developement UI Tool Kit. Working project can be found on the given below links.
 
-All Tutorials plus additional snippets and shorter posts can be found on the [Medium Page](https://medium.com/boring-apps)
+All Tutorials plus additional snippets and shorter posts can be found on the [Medium Page](https://medium.com/boring-apps). Currently the Medium Page is not active because of some time constraint.
 
 ### Show some love :heart: and star the repo to support the project
 
@@ -11,7 +11,7 @@ All Tutorials plus additional snippets and shorter posts can be found on the [Me
 
 If you had like the project pls hit the star :+1: icon.
 
-**I am currently looking for Full Time/ Internship Offer for any Software Development Roles. Pls, checkout my [Resume](https://drive.google.com/file/d/1wy9rxOwMcgqSVkElzbJ9mBw8UuCHlu63/view)**.
+**I am currently looking for Full Time/ Internship Offer for any Software Development Roles. Pls, checkout my [Resume](https://drive.google.com/file/d/1wy9rxOwMcgqSVkElzbJ9mBw8UuCHlu63/view) and my [Linkedin Profile](https://www.linkedin.com/in/rahul-chandra-a8371b11b/)**.
 
 [![GitHub stars](https://img.shields.io/github/stars/irahulcse/A-Complete-Guide-To-Flutter.svg?style=social&label=Star)](https://github.com/irahulcse/A-Complete-Guide-To-Flutter) [![GitHub forks](https://img.shields.io/github/forks/irahulcse/A-Complete-Guide-To-Flutter.svg?style=social&label=Fork)](https://github.com/irahulcse/A-Complete-Guide-To-Flutter/fork)
 [![GitHub watchers](https://img.shields.io/github/watchers/irahulcse/A-Complete-Guide-To-Flutter.svg?style=social&label=Watch)](https://github.com/irahulcse/A-Complete-Guide-To-Flutter)
