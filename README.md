@@ -25,15 +25,6 @@ If you had like the project pls hit the star :+1: icon.
 
 <a href='https://twitter.com/1rahulchandra' target='_blank'><img height='60' style='border:0px;height:36px;' src='http://victoryoutreach.org/wp-content/uploads/2014/11/follow-us-on-twitter.png' border='0' alt='Follow us on Twitter' /></a>
 
-
-### Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.dev/).
-
-## Contribution:
-Please clone and star this repo to stay up to date on changes. If anyone, would like to contribute to it. You can open the issue and start contributing to it.
-
 ### Tutorials
 
 **001 - Building a Notes App in Flutter - UI example:** [Source]()- In this tutorial we break down the UI into Flutter Widgets, complete our layout and then tweak to get our final design to match our screenshots.
@@ -94,3 +85,12 @@ When there have been changes in the main repo that you want to get, the cleanest
 2. Cherry-pick that commit
   * `git checkout MyCleanBranch`
   * `git cherry-pick COMMIT_ID`
+
+
+### Getting Started
+
+For help getting started with Flutter, view our online
+[documentation](https://flutter.dev/).
+
+## Contribution:
+Please clone and star this repo to stay up to date on changes. If anyone, would like to contribute to it. You can open the issue and start contributing to it.
