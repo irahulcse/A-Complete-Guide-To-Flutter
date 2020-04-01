@@ -9,7 +9,7 @@ All Tutorials plus additional snippets and shorter posts can be found on the [Me
 
 **About Me:** I am Rahul Chandra a Pre-Final Year Computer Science Student, an experienced SOftware Developer with a demonstrated history of working in the information technology and services industry. Seasoned Competative Coder. Skilled in C++, Python, Data Analysis, Java, Dart and Julia. Strong information technology professional with a Bachelor of Engineering - BE focused in Computer Science from Chandigarh University. 
 
-If you had like the project pls hit the star :+1: icon.
+**If you had like the project pls hit the star :+1: icon**.
 
 I am currently looking for Full Time/ Internship Offer for any Software Development Roles.
 [![GitHub stars](https://img.shields.io/github/stars/irahulcse/A-Complete-Guide-To-Flutter.svg?style=social&label=Star)](https://github.com/irahulcse/A-Complete-Guide-To-Flutter) [![GitHub forks](https://img.shields.io/github/forks/irahulcse/A-Complete-Guide-To-Flutter.svg?style=social&label=Fork)](https://github.com/irahulcse/A-Complete-Guide-To-Flutter/fork)
