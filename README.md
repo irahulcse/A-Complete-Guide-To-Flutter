@@ -1,9 +1,32 @@
-# A-Complete-Guide-To-Flutter
+![Image](assets/banner.png)
+
+# A-Complete-Guide-To-Flutter :boom:
 This repo contains all the source code posted on Medium and also contains all the projects which had been created till now.
 
-All Tutorials plus additional snippets and shorter posts can be found on the [Medium Page](https://medium.com/boring-apps).
+All Tutorials plus additional snippets and shorter posts can be found on the [Medium Page](https://medium.com/boring-apps)
+
+### Show some love :heart: and star the repo to support the project
+
+If you had like the project pls hit the star :+1: icon.
+
+
+
+### Created with :heart:
+
+[Rahul Chandra](https://github.com/irahulcse) ([@1rahulchandra1](https://www.twitter.com/1rahulchandra)) ([Linkedin](https://www.linkedin.com/in/rahul-chandra-a8371b11b/))
+
+### Following:
 
 <a href='https://twitter.com/1rahulchandra1' target='_blank'><img height='60' style='border:0px;height:36px;' src='http://victoryoutreach.org/wp-content/uploads/2014/11/follow-us-on-twitter.png' border='0' alt='Follow us on Twitter' /></a>
+
+### Testing
+
+Testing of the Project is Done :heavy_check_mark:
+
+## Getting Started
+
+For help getting started with Flutter, view our online
+[documentation](https://flutter.dev/).
 
 
 ## Contribution:
@@ -11,8 +34,6 @@ Please clone and star this repo to stay up to date on changes. If anyone, would 
 
 ## Education:
 All my brothers and sister, it is very important to understand that we are here to learn and excel in our professional life. So it's not really important from where we learn the stuff either from Youtube, Medium etc. If any one of you had some great website to share. Pls open an issue. I am looking forward to create the one of the **Biggest Repository On Flutter**, so that any one can learn from it.
-
-
 
 ## Tutorials
 
