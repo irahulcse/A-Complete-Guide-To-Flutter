@@ -11,7 +11,7 @@ All Tutorials plus additional snippets and shorter posts can be found on the [Me
 
 If you had like the project pls hit the star :+1: icon.
 
-**I am currently looking for Full Time/ Internship Offer for any Software Development Roles. Pls, checkout my [Resume](https://drive.google.com/file/d/1wy9rxOwMcgqSVkElzbJ9mBw8UuCHlu63/view) and my [Linkedin Profile](https://www.linkedin.com/in/rahul-chandra-a8371b11b/)**.
+**I am currently looking for Full Time/ Internship Offer for any Software Development Roles. Pls, checkout my [Resume](https://drive.google.com/file/d/1wy9rxOwMcgqSVkElzbJ9mBw8UuCHlu63/view) and my [Linkedin Profile](https://www.linkedin.com/in/rahul-chandra-a8371b11b/)**.  I am very passionated about Software Development :heart:
 
 [![GitHub stars](https://img.shields.io/github/stars/irahulcse/A-Complete-Guide-To-Flutter.svg?style=social&label=Star)](https://github.com/irahulcse/A-Complete-Guide-To-Flutter) [![GitHub forks](https://img.shields.io/github/forks/irahulcse/A-Complete-Guide-To-Flutter.svg?style=social&label=Fork)](https://github.com/irahulcse/A-Complete-Guide-To-Flutter/fork)
 [![GitHub watchers](https://img.shields.io/github/watchers/irahulcse/A-Complete-Guide-To-Flutter.svg?style=social&label=Watch)](https://github.com/irahulcse/A-Complete-Guide-To-Flutter)
@@ -26,8 +26,6 @@ If you had like the project pls hit the star :+1: icon.
 
 **002 - Chat Application in Flutter** (https://irahulcse.github.io/Chat_Application_Flutter/#/)- This is the basic project in which I had created the simple application by learning from **MTECH VIRAL'S VIDEO**.
 
-
-### Created with :heart:
 
 [Rahul Chandra](https://github.com/irahulcse) ([@1rahulchandra1](https://twitter.com/1rahulchandra1)) ([Linkedin](https://www.linkedin.com/in/rahul-chandra-a8371b11b/))
 
