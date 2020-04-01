@@ -37,12 +37,8 @@ For help getting started with Flutter, view our online
 Please clone and star this repo to stay up to date on changes. If anyone, would like to contribute to it. You can open the issue and start contributing to it.
 
 ## Education:
-All my brothers and sister, it is very important to understand that we are here to learn and excel in our professional life. So it's not really important from where we learn the stuff either from Youtube, Medium etc. If any one of you had some great website to share. Pls open an issue. I am looking forward to create the one of the **Biggest Repository On Flutter**, so that any one can learn from it.
-<<<<<<< HEAD
-=======
-![Image](assets/bestbook.jpg)
 
->>>>>>> 4fdb627e56afe340c4520f685983084dd5fa5c81
+All my brothers and sister, it is very important to understand that we are here to learn and excel in our professional life. So it's not really important from where we learn the stuff either from Youtube, Medium etc. If any one of you had some great website to share. Pls open an issue. I am looking forward to create the one of the **Biggest Repository On Flutter**, so that any one can learn from it.
 
 ## Tutorials
 
