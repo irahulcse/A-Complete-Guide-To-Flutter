@@ -12,6 +12,15 @@ If you had like the project pls hit the star :+1: icon.
 ### Working GIFS:
 <img src="image/chatapplication.gif" height="300em" />
 
+
+
+### Live Working Project
+
+**001 - Building a Notes App in Flutter - UI example:** [Source]()- In this tutorial we break down the UI into Flutter Widgets, complete our layout and then tweak to get our final design to match our screenshots.
+
+**002 - Chat Application in Flutter** (https://irahulcse.github.io/Chat_Application_Flutter/#/)- This is the basic project in which I had created the simple application by learning from **MTECH VIRAL'S VIDEO**.
+
+
 ### Created with :heart:
 
 [Rahul Chandra](https://github.com/irahulcse) ([@1rahulchandra1](https://www.twitter.com/1rahulchandra)) ([Linkedin](https://www.linkedin.com/in/rahul-chandra-a8371b11b/))
@@ -35,29 +44,25 @@ Please clone and star this repo to stay up to date on changes. If anyone, would 
 ## Education:
 All my brothers and sister, it is very important to understand that we are here to learn and excel in our professional life. So it's not really important from where we learn the stuff either from Youtube, Medium etc. If any one of you had some great website to share. Pls open an issue. I am looking forward to create the one of the **Biggest Repository On Flutter**, so that any one can learn from it.
 
-Best Book for Flutter Development:
-![Image](assets/bestbook.jpg)
-
-
 ## Tutorials
 
 **001 - Building a Notes App in Flutter - UI example:** [Source]()- In this tutorial we break down the UI into Flutter Widgets, complete our layout and then tweak to get our final design to match our screenshots.
 
-**002 - Chat Application in Flutter** [Source]()- This is the basic project in which I had created the simple application by learning from **MTECH VIRAL'S VIDEO** .
+**002 - Chat Application in Flutter** [Source]()- This is the basic project in which I had created the simple application by learning from **MTECH VIRAL'S VIDEO**.
 
 
 
 
-# Some Git Commands for Best Workflow Practices: 
+### Some Git Commands for Best Workflow Practices: 
 You can follow the below workflow, if you are new to Git. 
 
-## Initial setup
+#### Initial setup
 1. Fork the main A-Complete-Guide-To-Flutter
 2. Clone this repo on your machine
 3. Add the main repo as "upstream"
   * `git remote add upstream https://github.com/irahulcse/A-Complete-Guide-To-Flutter`
 
-## Starting a new issue
+#### Starting a new issue
 1. Get the latest version of the project
   * `git fetch upstream`
   * `git checkout master`
@@ -73,7 +78,7 @@ You can follow the below workflow, if you are new to Git.
   * *write a good commit message*
   * `git push`
 
-## Rebasing your branch
+#### Rebasing your branch
 When there have been changes in the main repo that you want to get, the cleanest option is often to rebase your branch on top of the latest commits.
 
 1. Get the latest commits and update your local master branch
@@ -86,13 +91,13 @@ When there have been changes in the main repo that you want to get, the cleanest
   * `git rebase master`
   * `git push -f`
 
-## Resetting a branch after you've messed it up
+#### Resetting a branch after you've messed it up
 1. Make sure there isn't any work that you care about losing
 2. Do a hard reset to the branch you want to restart from.
   * `git checkout MyMessedUpBranch`
   * `git reset --hard upstream/master`
 
-## Adding a single commit from one branch to another branch
+#### Adding a single commit from one branch to another branch
 1. Find and copy the commit ID that you want to use
 2. Cherry-pick that commit
   * `git checkout MyCleanBranch`
