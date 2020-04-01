@@ -9,17 +9,13 @@ All Tutorials plus additional snippets and shorter posts can be found on the [Me
 
 **About Me:** I am Rahul Chandra a Pre-Final Year Computer Science Student, an experienced SOftware Developer with a demonstrated history of working in the information technology and services industry. Seasoned Competative Coder. Skilled in C++, Python, Data Analysis, Java, Dart and Julia. Strong information technology professional with a Bachelor of Engineering - BE focused in Computer Science from Chandigarh University. 
 
-**If you had like the project pls hit the star :+1: icon**.
+If you had like the project pls hit the star :+1: icon.
 
-I am currently looking for Full Time/ Internship Offer for any Software Development Roles.
+**I am currently looking for Full Time/ Internship Offer for any Software Development Roles. Pls, checkout my [Resume](https://drive.google.com/file/d/1wy9rxOwMcgqSVkElzbJ9mBw8UuCHlu63/view)**.
+
 [![GitHub stars](https://img.shields.io/github/stars/irahulcse/A-Complete-Guide-To-Flutter.svg?style=social&label=Star)](https://github.com/irahulcse/A-Complete-Guide-To-Flutter) [![GitHub forks](https://img.shields.io/github/forks/irahulcse/A-Complete-Guide-To-Flutter.svg?style=social&label=Fork)](https://github.com/irahulcse/A-Complete-Guide-To-Flutter/fork)
 [![GitHub watchers](https://img.shields.io/github/watchers/irahulcse/A-Complete-Guide-To-Flutter.svg?style=social&label=Watch)](https://github.com/irahulcse/A-Complete-Guide-To-Flutter)
 [![GitHub followers](https://img.shields.io/github/followers/irahulcse.svg?style=social&label=Follow)](https://github.com/irahulcse/A-Complete-Guide-To-Flutter) [![Twitter Followers](https://img.shields.io/twitter/follow/1rahulchandra1.svg?style=social)](https://twitter.com/1rahulchandra1)
-
- [[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "//linkedin.com/in/rahul-chandra-a8371b11b"
 
 ### Working GIFS:
 <img src="image/chatapplication.gif" height="300em" />
