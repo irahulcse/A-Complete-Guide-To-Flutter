@@ -12,10 +12,9 @@ All Tutorials plus additional snippets and shorter posts can be found on the [Me
 If you had like the project pls hit the star :+1: icon.
 
 I am currently looking for Full Time/ Internship Offer for any Software Development Roles.
-[![GitHub stars](https://img.shields.io/github/stars/iampawan/FlutterExampleApps.svg?style=social&label=Star)](https://github.com/iampawan/FlutterExampleApps) [![GitHub forks](https://img.shields.io/github/forks/irahulcse/A-Complete-Guide-To-Flutter.svg?style=social&label=Fork)](https://github.com/irahulcse/A-Complete-Guide-To-Flutter/fork)
+[![GitHub stars](https://img.shields.io/github/stars/irahulcse/A-Complete-Guide-To-Flutter.svg?style=social&label=Star)](https://github.com/irahulcse/A-Complete-Guide-To-Flutter) [![GitHub forks](https://img.shields.io/github/forks/irahulcse/A-Complete-Guide-To-Flutter.svg?style=social&label=Fork)](https://github.com/irahulcse/A-Complete-Guide-To-Flutter/fork)
 [![GitHub watchers](https://img.shields.io/github/watchers/irahulcse/A-Complete-Guide-To-Flutter.svg?style=social&label=Watch)](https://github.com/irahulcse/A-Complete-Guide-To-Flutter)
-[![GitHub followers](https://img.shields.io/github/followers/irahulcse.svg?style=social&label=Follow)](https://github.com/irahulcse/A-Complete-Guide-To-Flutter)  
-[![Twitter Followers](https://img.shields.io/twitter/follow/1rahulchandra1.svg?style=social)](https://twitter.com/1rahulchandra1)
+[![GitHub followers](https://img.shields.io/github/followers/irahulcse.svg?style=social&label=Follow)](https://github.com/irahulcse/A-Complete-Guide-To-Flutter) [![Twitter Followers](https://img.shields.io/twitter/follow/1rahulchandra1.svg?style=social)](https://twitter.com/1rahulchandra1)
 
  [[params.social]]
     icon = "linkedin"
