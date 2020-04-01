@@ -12,6 +12,15 @@ If you had like the project pls hit the star :+1: icon.
 ### Working GIFS:
 <img src="image/chatapplication.gif" height="300em" />
 
+
+
+### Live Working Project
+
+**001 - Building a Notes App in Flutter - UI example:** [Source]()- In this tutorial we break down the UI into Flutter Widgets, complete our layout and then tweak to get our final design to match our screenshots.
+
+**002 - Chat Application in Flutter** (https://irahulcse.github.io/Chat_Application_Flutter/#/)- This is the basic project in which I had created the simple application by learning from **MTECH VIRAL'S VIDEO**.
+
+
 ### Created with :heart:
 
 [Rahul Chandra](https://github.com/irahulcse) ([@1rahulchandra1](https://www.twitter.com/1rahulchandra)) ([Linkedin](https://www.linkedin.com/in/rahul-chandra-a8371b11b/))
@@ -34,8 +43,6 @@ Please clone and star this repo to stay up to date on changes. If anyone, would 
 
 ## Education:
 All my brothers and sister, it is very important to understand that we are here to learn and excel in our professional life. So it's not really important from where we learn the stuff either from Youtube, Medium etc. If any one of you had some great website to share. Pls open an issue. I am looking forward to create the one of the **Biggest Repository On Flutter**, so that any one can learn from it.
-
-Best Book for Flutter Development:
 ![Image](assets/bestbook.jpg)
 
 
@@ -43,7 +50,7 @@ Best Book for Flutter Development:
 
 **001 - Building a Notes App in Flutter - UI example:** [Source]()- In this tutorial we break down the UI into Flutter Widgets, complete our layout and then tweak to get our final design to match our screenshots.
 
-**002 - Chat Application in Flutter** [Source]()- This is the basic project in which I had created the simple application by learning from **MTECH VIRAL'S VIDEO** .
+**002 - Chat Application in Flutter** [Source]()- This is the basic project in which I had created the simple application by learning from **MTECH VIRAL'S VIDEO**.
 
 
 
