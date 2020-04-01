@@ -1,6 +1,6 @@
 ![Image](assets/banner.png)
 
-# A-Complete-Guide-To-Flutter(Mini Apps) :boom:
+# Complete-Guide-To-Flutter(Mini Apps) :boom:
 All the Mini Apps coded in Dart Language and live working project hosted on GitHub using the Flutter Mobile Developement UI Tool Kit. Working project can be found on the given below links.
 
 All Tutorials plus additional snippets and shorter posts can be found on the [Medium Page](https://medium.com/boring-apps). Currently the Medium Page is not active because of some time constraint.
