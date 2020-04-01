@@ -10,9 +10,7 @@ All Tutorials plus additional snippets and shorter posts can be found on the [Me
 If you had like the project pls hit the star :+1: icon.
 
 ### Working GIFS:
-<img src="image/chatapplication.gif" height="300em" />
-
-
+<img src="image/chatapplication.gif" height="100em" />
 
 ### Live Working Project
 
@@ -28,7 +26,7 @@ If you had like the project pls hit the star :+1: icon.
 <a href='https://twitter.com/1rahulchandra' target='_blank'><img height='60' style='border:0px;height:36px;' src='http://victoryoutreach.org/wp-content/uploads/2014/11/follow-us-on-twitter.png' border='0' alt='Follow us on Twitter' /></a>
 
 
-## Getting Started
+### Getting Started
 
 For help getting started with Flutter, view our online
 [documentation](https://flutter.dev/).
@@ -36,20 +34,18 @@ For help getting started with Flutter, view our online
 ## Contribution:
 Please clone and star this repo to stay up to date on changes. If anyone, would like to contribute to it. You can open the issue and start contributing to it.
 
-## Education:
-
-All my brothers and sister, it is very important to understand that we are here to learn and excel in our professional life. So it's not really important from where we learn the stuff either from Youtube, Medium etc. If any one of you had some great website to share. Pls open an issue. I am looking forward to create the one of the **Biggest Repository On Flutter**, so that any one can learn from it.
-
-## Tutorials
+### Tutorials
 
 **001 - Building a Notes App in Flutter - UI example:** [Source]()- In this tutorial we break down the UI into Flutter Widgets, complete our layout and then tweak to get our final design to match our screenshots.
 
 **002 - Chat Application in Flutter** [Source]()- This is the basic project in which I had created the simple application by learning from **MTECH VIRAL'S VIDEO**.
 
+### Education:
+
+All my brothers and sister, it is very important to understand that we are here to learn and excel in our professional life. So it's not really important from where we learn the stuff either from Youtube, Medium etc. If any one of you had some great website to share. Pls open an issue. I am looking forward to create the one of the **Biggest Repository On Flutter**, so that any one can learn from it.
 
 
-
-### Some Git Commands for Best Workflow Practices: 
+#### Some Git Commands for Best Workflow Practices: 
 You can follow the below workflow, if you are new to Git. 
 
 #### Initial setup
