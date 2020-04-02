@@ -3,23 +3,21 @@
 # Complete-Guide-To-Flutter(Mini Apps) :boom:
 All the Mini Apps coded in Dart Language and live working project hosted on GitHub using the Flutter Mobile Developement UI Tool Kit. Working project can be found on the given below links.
 
+All Tutorials plus additional snippets and shorter posts can be found on the [Medium Page](https://medium.com/boring-apps). Currently the Medium Page is not active because of some time constraint.
+
 ### Show some love :heart: and star the repo to support the project
 If you had like the project pls hit the star :+1: icon.
 [![GitHub stars](https://img.shields.io/github/stars/irahulcse/A-Complete-Guide-To-Flutter.svg?style=social&label=Star)](https://github.com/irahulcse/A-Complete-Guide-To-Flutter) [![GitHub forks](https://img.shields.io/github/forks/irahulcse/A-Complete-Guide-To-Flutter.svg?style=social&label=Fork)](https://github.com/irahulcse/A-Complete-Guide-To-Flutter/fork)
 [![GitHub watchers](https://img.shields.io/github/watchers/irahulcse/A-Complete-Guide-To-Flutter.svg?style=social&label=Watch)](https://github.com/irahulcse/A-Complete-Guide-To-Flutter)
 [![GitHub followers](https://img.shields.io/github/followers/irahulcse.svg?style=social&label=Follow)](https://github.com/irahulcse/A-Complete-Guide-To-Flutter) [![Twitter Followers](https://img.shields.io/twitter/follow/1rahulchandra1.svg?style=social)](https://twitter.com/1rahulchandra1)
 
-All Tutorials plus additional snippets and shorter posts can be found on the [Medium Page](https://medium.com/boring-apps). Currently the Medium Page is not active because of some time constraint.
-
-
-
-
 ### Project Created by:
 
 **Rahul Chandra:**
 A a Pre-Final Year Computer Science Student, an experienced SOftware Developer with a demonstrated history of working in the information technology and services industry. Seasoned Competative Coder. Skilled in C++, Python, Data Analysis, Java, Dart and Julia. Strong information technology professional with a Bachelor of Engineering - BE focused in Computer Science from Chandigarh University. 
 
-**I am currently looking for Full Time/ Internship Offer for any Software Development Roles. Pls, checkout my [Resume](https://drive.google.com/file/d/1wy9rxOwMcgqSVkElzbJ9mBw8UuCHlu63/view) and my [Linkedin Profile](https://www.linkedin.com/in/rahul-chandra-a8371b11b/)**.  I am very passionated about Software Development :heart:
+**I am currently looking for Full Time/ Internship Offer for any Software Development Roles. Pls, checkout my [Resume](https://drive.google.com/file/d/1wy9rxOwMcgqSVkElzbJ9mBw8UuCHlu63/view)**.  I am very passionated about Software Development :heart:
+
 <a href="https://twitter.com/1rahulchandra1"><img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" width="60"></a>
 <a href="https://www.linkedin.com/in/rahul-chandra-a8371b11b/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
 <a href="https://facebook.com"><img src="https://github.com/aritraroy/social-icons/blob/master/facebook-icon.png?raw=true" width="60"></a>
