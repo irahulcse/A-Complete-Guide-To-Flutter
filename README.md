@@ -37,8 +37,6 @@ A a Pre-Final Year Computer Science Student, an experienced Software Developer w
 **002 - Chat Application in Flutter** (https://irahulcse.github.io/Chat_Application_Flutter/#/) - This is the basic project in which I had created the simple application by learning from **MTECH VIRAL'S VIDEO**.
 
 
-[Rahul Chandra](https://github.com/irahulcse) ([@1rahulchandra1](https://twitter.com/1rahulchandra1)) ([Linkedin](https://www.linkedin.com/in/rahul-chandra-a8371b11b/))
-
 <a href='https://twitter.com/1rahulchandra' target='_blank'><img height='60' style='border:0px;height:36px;' src='http://victoryoutreach.org/wp-content/uploads/2014/11/follow-us-on-twitter.png' border='0' alt='Follow us on Twitter' /></a>
 
 
