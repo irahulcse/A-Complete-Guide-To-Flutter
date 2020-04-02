@@ -34,7 +34,7 @@ A a Pre-Final Year Computer Science Student, an experienced SOftware Developer w
 
 **001 - Building a Notes App in Flutter - UI example:** [Source]()- In this tutorial we break down the UI into Flutter Widgets, complete our layout and then tweak to get our final design to match our screenshots.
 
-**002 - Chat Application in Flutter** (https://irahulcse.github.io/Chat_Application_Flutter/#/)- This is the basic project in which I had created the simple application by learning from **MTECH VIRAL'S VIDEO**.
+**002 - Chat Application in Flutter** (https://irahulcse.github.io/Chat_Application_Flutter/#/) - This is the basic project in which I had created the simple application by learning from **MTECH VIRAL'S VIDEO**.
 
 
 [Rahul Chandra](https://github.com/irahulcse) ([@1rahulchandra1](https://twitter.com/1rahulchandra1)) ([Linkedin](https://www.linkedin.com/in/rahul-chandra-a8371b11b/))
