@@ -28,7 +28,7 @@ A a Pre-Final Year Computer Science Student, an experienced Software Developer w
 
 
 ### Working GIFS:
-<img src="image/chatapplication.gif" height="300em" /><img src="https://github.com/irahulcse/Rovers_Guide_Fluter/blob/master/images/rovers.gif" height="500em" />
+<img src="image/chatapplication.gif" height="300em" /><img src="https://github.com/irahulcse/Rovers_Guide_Fluter/blob/master/images/rovers.gif" height="300em" />
 
 ### Live Working Project
 
