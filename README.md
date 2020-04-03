@@ -40,8 +40,11 @@ This is the basic project in which I had created the simple application by learn
 
 #### 003 - Rover's Guide (One Stop Solution For Travellers)  
 **Deployed Link:point_right:(https://irahulcse.github.io/Rovers_Guide_Fluter/#/)**
-Rover's Guide is my Pre-Final Year Computer Science Engineering Project. The more is needed to be done. Source Code can be found with proper documentation on this [link](https://github.com/irahulcse/Rovers_Guide_Fluter).
+Rover's Guide is my Pre-Final Year Computer Science Engineering Project. The more is needed to be done in this project. Discussed more detailed in the below repo link. Source Code can be found with proper documentation on this [link](https://github.com/irahulcse/Rovers_Guide_Fluter).
+If you found, it interesting pls :star: this repo. It will motivated me to work more hard.
+
 <img src="https://github.com/irahulcse/Rovers_Guide_Fluter/blob/master/images/rovers.jpg" height="500em" /> 
+
 
 ### Education:
 
