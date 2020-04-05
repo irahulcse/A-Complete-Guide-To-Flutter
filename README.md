@@ -50,7 +50,7 @@ If you found, it interesting pls :star: this repo. It will motivated me to work 
 #### 004 - Sound_View_App_Flutter:
 **Deployed Link [:point_right:](https://irahulcse.github.io/Sound_View_App_Flutter/#/)**
 **Source Code Of Project [:point_right:](https://github.com/irahulcse/Sound_View_App_Flutter)**
-Sound View App Flutter is the project in which I had integerated the Audio Player which can be further used to the click on the Emoji Icon.
+Sound View App Flutter is the project in which I had integerated the Audio Player which can be further used to the click on the Emoji Icon's.
 
 It is a basic project which is used to play the .mp3 files.
 
