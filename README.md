@@ -28,7 +28,7 @@ A a Pre-Final Year Computer Science Student, an experienced Software Developer w
 
 
 ### Working GIFS:
-<img src="image/chatapplication.gif" height="300em" /><img src="https://github.com/irahulcse/Rovers_Guide_Fluter/blob/master/images/rovers.gif" height="300em" width="180em" /><img src="https://github.com/irahulcse/Sound_View_App_Flutter/blob/master/images/report.gif" height="300em" width="180em" /><img src="https://github.com/irahulcse/Flutter_Shop_App_Tutorial/blob/master/images/rovers.gif" height="300em" width="300em" /><img src="https://github.com/irahulcse/Calculator_App_Flutter/blob/master/images/rovers.gif" height="300em" width="300em" /><img src="https://github.com/irahulcse/Portfolio_Card_Generator_Flutter/blob/master/images/1.png" height="400em" width="300em" />
+<img src="image/chatapplication.gif" height="300em" /><img src="https://github.com/irahulcse/Rovers_Guide_Fluter/blob/master/images/rovers.gif" height="300em" width="180em" /><img src="https://github.com/irahulcse/Sound_View_App_Flutter/blob/master/images/report.gif" height="300em" width="180em" /><img src="https://github.com/irahulcse/Flutter_Shop_App_Tutorial/blob/master/images/rovers.gif" height="300em" width="300em" /><img src="https://github.com/irahulcse/Calculator_App_Flutter/blob/master/images/rovers.gif" height="300em" width="300em" /><img src="https://github.com/irahulcse/Portfolio_Card_Generator_Flutter/blob/master/images/1.png" height="350em" width="250em" />
 
 ### Live Working Project:
 
