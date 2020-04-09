@@ -105,7 +105,7 @@ If you found, it interesting pls :star: this repo. It will motivated me to work 
 
 **Source Code Of Project :point_right: [link](https://github.com/irahulcse/Dice_App_Flutter)**
 
-Dice App Flutter is the project, in which I had learnt about **Expanded** , **Flat Button** and how to differentiate betweeen the **Stateful** and **Stateless** widget properties with each other. I had also got to know about the **Math** properties related to dart. I had used the ** rohan()** function to automate the task of generating the random numbers and changing the picture.
+Dice App Flutter is the project, in which I had learnt about **Expanded** , **Flat Button** and how to differentiate betweeen the **Stateful** and **Stateless** widget properties with each other. I had also got to know about the **Math** properties related to dart. I had used the **rohan()** function to automate the task of generating the random numbers and changing the picture.
 
 If you found, it interesting pls :star: this repo. It will motivated me to work more hard.
 
