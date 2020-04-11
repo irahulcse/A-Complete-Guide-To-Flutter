@@ -32,70 +32,18 @@ A a Pre-Final Year Computer Science Student, an experienced Software Developer w
 
 ### Live Working Project:
 
-#### 001 - Building a Notes App in Flutter - UI example:**
- In this tutorial we break down the UI into Flutter Widgets, complete our layout and then tweak to get our final design to match our screenshots.
+#### 009 - Telegram UI Flutter:
 
-#### 002 - Chat Application in Flutter  Deployed Link:point_right:(https://irahulcse.github.io/Chat_Application_Flutter/#/) - 
-This is the basic project in which I had created the simple application by learning from **MTECH VIRAL'S VIDEO**. Source Code can be found with proper documentation on this [link](https://github.com/irahulcse/Chat_Application_Flutter).
+**Deployed Link :point_right: [link](https://irahulcse.github.io/Telegram_Ui_Flutter/#/)**
 
-#### 003 - Rover's Guide (One Stop Solution For Travellers)  
-**Deployed Link :point_right: [link](https://irahulcse.github.io/Rovers_Guide_Fluter/#/)**
+**Source Code Of Project :point_right: [link]https://github.com/irahulcse/Telegram_Ui_Flutter)**
 
-**Source Code Of Project :point_right: [link](https://github.com/irahulcse/Rovers_Guide_Fluter)**
-
-Rover's Guide is my Pre-Final Year Computer Science Engineering Project. The more is needed to be done in this project. Discussed more detailed in the below repo link. Source Code can be found with proper documentation on this [link](https://github.com/irahulcse/Rovers_Guide_Fluter).
+Created Telegram User Interface in Flutter using the widgets like ListTile, ListView and different builders like the ListView Builder Seperator and also used the other widgets like CircleAvator, Text widgets for UI etc.
 
 If you found, it interesting pls :star: this repo. It will motivated me to work more hard.
 
-<img src="https://github.com/irahulcse/Rovers_Guide_Fluter/blob/master/images/rovers.jpg" height="500em" /> 
+<img src="https://github.com/irahulcse/Telegram_Ui_Flutter/blob/master/images/rovers.jpg" height="500em" />
 
-#### 004 - Sound_View_App_Flutter:
-**Deployed Link :point_right: [link](https://irahulcse.github.io/Sound_View_App_Flutter/#/)**
-
-**Source Code Of Project :point_right: [link](https://github.com/irahulcse/Sound_View_App_Flutter)**
-
-Sound View App Flutter is the project in which I had integerated the Audio Player which can be further used to the click on the Emoji Icon's.
-
-It is a basic project which is used to play the .mp3 files.
-
-If you found, it interesting pls :star: this repo. It will motivated me to work more hard.
-
-<img src="https://github.com/irahulcse/Sound_View_App_Flutter/blob/master/images/rovers.jpg" height="500em" /> 
-
-#### 005 - Flutter_Shop's_App:
-**Deployed Link :point_right: [link](https://irahulcse.github.io/Flutter_Shop_App_Tutorial/#/)**
-
-**Source Code Of Project :point_right: [link](https://github.com/irahulcse/Flutter_Shop_App_Tutorial)**
-
-Flutter Shop's Application is the simple application which is used to learn the Grid View Builder and also the how to refer the learning.
-
-It is a basic project which is used to learn about the widget's.
-
-If you found, it interesting pls :star: this repo. It will motivated me to work more hard.
-
-<img src="https://github.com/irahulcse/Flutter_Shop_App_Tutorial/blob/master/images/rovers.jpg" height="500em" /> 
-
-#### 006 - Calculator's App Flutter:
-**Deployed Link :point_right: [link](https://irahulcse.github.io/Calculator_App_Flutter/#/)**
-
-**Source Code Of Project :point_right: [link](https://github.com/irahulcse/Calculator_App_Flutter)**
-
-In this Calculator App, I had learnt about the different **Flutter States** and also implemented different **Themes** in it. I had also worked upon the different **Text Editing Controller** options like **TextInputFormatters** etc.
-
-If you found, it interesting pls :star: this repo. It will motivated me to work more hard.
-
-<img src="https://github.com/irahulcse/Calculator_App_Flutter/blob/master/images/rovers.jpg" height="500em" /> 
-
-#### 007 - Portfolio's App Flutter:
-**Deployed Link :point_right: [link](https://irahulcse.github.io/Calculator_App_Flutter/#/)**
-
-**Source Code Of Project :point_right: [link](https://github.com/irahulcse/Portfolio_Card_Generator_Flutter)**
-
-In this Porfolio App, I had learnt about the different widgets like **List Tile**, **Card** and how to use **Safe Area** for keeping the **App's UI** clean and beautiful.
-
-If you found, it interesting pls :star: this repo. It will motivated me to work more hard.
-
-<img src="https://github.com/irahulcse/Portfolio_Card_Generator_Flutter/blob/master/images/rovers.jpg" height="500em" /> 
 
 #### 008 - Dice Game Flutter:
 
@@ -110,18 +58,72 @@ Dice App Flutter is the project, in which I had learnt about **Expanded** , **Fl
 If you found, it interesting pls :star: this repo. It will motivated me to work more hard.
 
 <img src="https://github.com/irahulcse/Dice_App_Flutter/blob/master/images/rovers.jpg" height="500em" />
+#### 007 - Portfolio's App Flutter:
+**Deployed Link :point_right: [link](https://irahulcse.github.io/Calculator_App_Flutter/#/)**
 
-#### 009 - Telegram UI Flutter:
+**Source Code Of Project :point_right: [link](https://github.com/irahulcse/Portfolio_Card_Generator_Flutter)**
 
-**Deployed Link :point_right: [link](https://irahulcse.github.io/Telegram_Ui_Flutter/#/)**
-
-**Source Code Of Project :point_right: [link]https://github.com/irahulcse/Telegram_Ui_Flutter)**
-
-Created Telegram User Interface in Flutter using the widgets like ListTile, ListView and different builders like the ListView Builder Seperator and also used the other widgets like CircleAvator, Text widgets for UI etc.
+In this Porfolio App, I had learnt about the different widgets like **List Tile**, **Card** and how to use **Safe Area** for keeping the **App's UI** clean and beautiful.
 
 If you found, it interesting pls :star: this repo. It will motivated me to work more hard.
 
-<img src="https://github.com/irahulcse/Telegram_Ui_Flutter/blob/master/images/rovers.jpg" height="500em" />
+<img src="https://github.com/irahulcse/Portfolio_Card_Generator_Flutter/blob/master/images/rovers.jpg" height="500em" /> 
+
+#### 006 - Calculator's App Flutter:
+**Deployed Link :point_right: [link](https://irahulcse.github.io/Calculator_App_Flutter/#/)**
+
+**Source Code Of Project :point_right: [link](https://github.com/irahulcse/Calculator_App_Flutter)**
+
+In this Calculator App, I had learnt about the different **Flutter States** and also implemented different **Themes** in it. I had also worked upon the different **Text Editing Controller** options like **TextInputFormatters** etc.
+
+If you found, it interesting pls :star: this repo. It will motivated me to work more hard.
+
+<img src="https://github.com/irahulcse/Calculator_App_Flutter/blob/master/images/rovers.jpg" height="500em" /> 
+
+#### 005 - Flutter_Shop's_App:
+**Deployed Link :point_right: [link](https://irahulcse.github.io/Flutter_Shop_App_Tutorial/#/)**
+
+**Source Code Of Project :point_right: [link](https://github.com/irahulcse/Flutter_Shop_App_Tutorial)**
+
+Flutter Shop's Application is the simple application which is used to learn the Grid View Builder and also the how to refer the learning.
+
+It is a basic project which is used to learn about the widget's.
+
+If you found, it interesting pls :star: this repo. It will motivated me to work more hard.
+
+<img src="https://github.com/irahulcse/Flutter_Shop_App_Tutorial/blob/master/images/rovers.jpg" height="500em" /> 
+
+#### 004 - Sound_View_App_Flutter:
+**Deployed Link :point_right: [link](https://irahulcse.github.io/Sound_View_App_Flutter/#/)**
+
+**Source Code Of Project :point_right: [link](https://github.com/irahulcse/Sound_View_App_Flutter)**
+
+Sound View App Flutter is the project in which I had integerated the Audio Player which can be further used to the click on the Emoji Icon's.
+
+It is a basic project which is used to play the .mp3 files.
+
+If you found, it interesting pls :star: this repo. It will motivated me to work more hard.
+
+<img src="https://github.com/irahulcse/Sound_View_App_Flutter/blob/master/images/rovers.jpg" height="500em" /> 
+
+#### 003 - Rover's Guide (One Stop Solution For Travellers)  
+**Deployed Link :point_right: [link](https://irahulcse.github.io/Rovers_Guide_Fluter/#/)**
+
+**Source Code Of Project :point_right: [link](https://github.com/irahulcse/Rovers_Guide_Fluter)**
+
+Rover's Guide is my Pre-Final Year Computer Science Engineering Project. The more is needed to be done in this project. Discussed more detailed in the below repo link. Source Code can be found with proper documentation on this [link](https://github.com/irahulcse/Rovers_Guide_Fluter).
+
+If you found, it interesting pls :star: this repo. It will motivated me to work more hard.
+
+<img src="https://github.com/irahulcse/Rovers_Guide_Fluter/blob/master/images/rovers.jpg" height="500em" /> 
+
+#### 002 - Chat Application in Flutter   - 
+**Deployed Link:point_right: [link](https://irahulcse.github.io/Chat_Application_Flutter/#/)**
+
+This is the basic project in which I had created the simple application by learning from **MTECH VIRAL'S VIDEO**. Source Code can be found with proper documentation on this [link](https://github.com/irahulcse/Chat_Application_Flutter).
+
+#### 001 - Building a Notes App in Flutter - UI example:**
+ In this tutorial we break down the UI into Flutter Widgets, complete our layout and then tweak to get our final design to match our screenshots.
 
 ### Education:
 
