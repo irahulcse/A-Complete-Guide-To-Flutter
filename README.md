@@ -36,7 +36,7 @@ A a Pre-Final Year Computer Science Student, an experienced Software Developer w
 
 **Deployed Link :point_right: [link](https://irahulcse.github.io/Telegram_Ui_Flutter/#/)**
 
-**Source Code Of Project :point_right: [link]https://github.com/irahulcse/Telegram_Ui_Flutter)**
+**Source Code Of Project :point_right: [link](https://github.com/irahulcse/Telegram_Ui_Flutter)**
 
 Created Telegram User Interface in Flutter using the widgets like ListTile, ListView and different builders like the ListView Builder Seperator and also used the other widgets like CircleAvator, Text widgets for UI etc.
 
@@ -58,6 +58,7 @@ Dice App Flutter is the project, in which I had learnt about **Expanded** , **Fl
 If you found, it interesting pls :star: this repo. It will motivated me to work more hard.
 
 <img src="https://github.com/irahulcse/Dice_App_Flutter/blob/master/images/rovers.jpg" height="500em" />
+
 #### 007 - Portfolio's App Flutter:
 **Deployed Link :point_right: [link](https://irahulcse.github.io/Calculator_App_Flutter/#/)**
 
@@ -122,7 +123,7 @@ If you found, it interesting pls :star: this repo. It will motivated me to work 
 
 This is the basic project in which I had created the simple application by learning from **MTECH VIRAL'S VIDEO**. Source Code can be found with proper documentation on this [link](https://github.com/irahulcse/Chat_Application_Flutter).
 
-#### 001 - Building a Notes App in Flutter - UI example:**
+#### 001 - Building a Notes App in Flutter - UI example:
  In this tutorial we break down the UI into Flutter Widgets, complete our layout and then tweak to get our final design to match our screenshots.
 
 ### Education:
