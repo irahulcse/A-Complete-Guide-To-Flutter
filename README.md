@@ -3,7 +3,7 @@
 # Complete-Guide-To-Flutter(Mini Apps) :boom:
 All the Mini Apps coded in Dart Language and live working project hosted on GitHub using the Flutter Mobile Developement UI Tool Kit. Working project can be found on the given below given links.
 
-All Tutorials plus additional snippets and shorter posts can be found on the [Medium Page](https://medium.com/boring-apps). Currently the Medium Page is not active because of some time constraint.
+All Tutorials plus additional snippets and shorter posts can be found on the [repo](https://github.com/Solido/awesome-flutter).I think this one of the biggest repo related to Flutter till now with all it;s wisdome dumped in one place.
 
 ### Show some love :heart: and star the repo to support the project
 
