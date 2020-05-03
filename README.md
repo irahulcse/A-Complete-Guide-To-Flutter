@@ -173,9 +173,6 @@ All my brothers and sister, it is very important to understand that we are here 
 - [FlutterMates](https://github.com/CodemateLtd/FlutterMates) - A sample app for our internal company talk about Flutter by [Codemate Ltd](https://github.com/CodemateLtd).
 - [SpaceX GO](https://github.com/jesusrp98/spacex-go) - Simple yet powerful, open-source SpaceX launch tracker by [Chechu](https://github.com/jesusrp98/).
 
-### Education
-
-
 ### Entertainment
 
 - [CineReel](https://github.com/kserko/CineReel) - You can see lists for Now playing, Top Rated, Popular and Upcoming movies by [serko](https://github.com/kserko).
