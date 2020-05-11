@@ -12,11 +12,6 @@ All the Mini Apps coded in Dart Language and live working project hosted on GitH
 All Tutorials plus additional snippets and shorter posts can be found on the [repo](https://github.com/Solido/awesome-flutter).I think this one of the biggest repo related to Flutter till now with all it;s wisdome dumped in one place.
 
 ### Show some love :heart: and star the repo to support the project
-![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
-![](https://img.shields.io/github/last-commit/irahulcse/A-Complete-Guide-To-Flutter.svg?label=last%20update&style=flat)
-[![GitHub stars](https://img.shields.io/github/stars/irahulcse/A-Complete-Guide-To-Flutter.svg?style=social&label=Star)](https://github.com/irahulcse/A-Complete-Guide-To-Flutter) [![GitHub forks](https://img.shields.io/github/forks/irahulcse/A-Complete-Guide-To-Flutter.svg?style=social&label=Fork)](https://github.com/irahulcse/A-Complete-Guide-To-Flutter/fork)
-[![GitHub watchers](https://img.shields.io/github/watchers/irahulcse/A-Complete-Guide-To-Flutter.svg?style=social&label=Watch)](https://github.com/irahulcse/A-Complete-Guide-To-Flutter)
-[![GitHub followers](https://img.shields.io/github/followers/irahulcse.svg?style=social&label=Follow)](https://github.com/irahulcse/A-Complete-Guide-To-Flutter) [![Twitter Followers](https://img.shields.io/twitter/follow/1rahulchandra1.svg?style=social)](https://twitter.com/1rahulchandra1)
 
 If you had like the project pls consider giving the star :star: icon on the top right corner of the Project .
 
