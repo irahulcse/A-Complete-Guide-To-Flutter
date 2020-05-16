@@ -48,7 +48,7 @@ Everything is working quite fine and intutive.
 
 **Source Code Of Project :point_right: [link](https://irahulcse.github.io/Flutter_Web_Firebase_Authentication/#/)**
 
-<img src="https://github.com/irahulcse/Mortage_Payment_1_Beta/blob/master/images/rovers.jpg" height="500em" />
+<img src="https://github.com/irahulcse/Flutter_Web_Firebase_Authentication/blob/master/images/rovers.jpg" height="500em" />
 
 #### 011 - Flutter_Mortage_Payment_App_1_Beta:
 
