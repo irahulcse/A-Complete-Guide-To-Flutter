@@ -30,9 +30,25 @@ A a Pre-Final Year Computer Science Student, an experienced Software Developer w
 
 
 ### Working GIFS:
-<img src="image/chatapplication.gif" height="300em" /><img src="https://github.com/irahulcse/Rovers_Guide_Fluter/blob/master/images/rovers.gif" height="300em" width="180em" /><img src="https://github.com/irahulcse/Sound_View_App_Flutter/blob/master/images/report.gif" height="300em" width="180em" /><img src="https://github.com/irahulcse/Flutter_Shop_App_Tutorial/blob/master/images/rovers.gif" height="300em" width="300em" /><img src="https://github.com/irahulcse/Calculator_App_Flutter/blob/master/images/rovers.gif" height="300em" width="300em" /><img src="https://github.com/irahulcse/Portfolio_Card_Generator_Flutter/blob/master/images/1.png" height="350em" width="250em" /><img src="https://github.com/irahulcse/Dice_App_Flutter/blob/master/images/1.gif" height="350em" width="250em" /><img src="https://github.com/irahulcse/Telegram_Ui_Flutter/blob/master/images/rovers.gif" height="350em" width="250em" /><img src="https://github.com/irahulcse/Flutter_Bottom_Sheet_Tutorial/blob/master/assets/rovers.gif" height="350em" width="250em" /><img src="https://github.com/irahulcse/Mortage_Payment_1_Beta/blob/master/images/rovers.gif" height="350em" width="250em" />
+<img src="image/chatapplication.gif" height="300em" /><img src="https://github.com/irahulcse/Rovers_Guide_Fluter/blob/master/images/rovers.gif" height="300em" width="180em" /><img src="https://github.com/irahulcse/Sound_View_App_Flutter/blob/master/images/report.gif" height="300em" width="180em" /><img src="https://github.com/irahulcse/Flutter_Shop_App_Tutorial/blob/master/images/rovers.gif" height="300em" width="300em" /><img src="https://github.com/irahulcse/Calculator_App_Flutter/blob/master/images/rovers.gif" height="300em" width="300em" /><img src="https://github.com/irahulcse/Portfolio_Card_Generator_Flutter/blob/master/images/1.png" height="350em" width="250em" /><img src="https://github.com/irahulcse/Dice_App_Flutter/blob/master/images/1.gif" height="350em" width="250em" /><img src="https://github.com/irahulcse/Telegram_Ui_Flutter/blob/master/images/rovers.gif" height="350em" width="250em" /><img src="https://github.com/irahulcse/Flutter_Bottom_Sheet_Tutorial/blob/master/assets/rovers.gif" height="350em" width="250em" /><img src="https://github.com/irahulcse/Mortage_Payment_1_Beta/blob/master/images/rovers.gif" height="350em" width="250em" /><img src="https://github.com/irahulcse/Flutter_Web_Firebase_Authentication/blob/master/images/rovers.gif" height="350em" width="250em" />
 
 ### Live Working Project:
+
+#### 012 - Flutter_Web_Firebase_Authentication:
+
+After so much hectic, I am succesfully able to integerate the Firebase Auth in Flutter Web. This is still in beta phase.
+
+The best part is that all the functionalities are working properly, this is just the prototype version of the Flutter Web Firebase Authentication. More to be updated in the future.
+
+The article which I had referred can be found on this [link]().
+
+Everything is working quite fine and intutive.
+
+**Deployed Link :point_right: [link](https://github.com/irahulcse/Flutter_Web_Firebase_Authentication)**
+
+**Source Code Of Project :point_right: [link](https://irahulcse.github.io/Flutter_Web_Firebase_Authentication/#/)**
+
+<img src="https://github.com/irahulcse/Mortage_Payment_1_Beta/blob/master/images/rovers.jpg" height="500em" />
 
 #### 011 - Flutter_Mortage_Payment_App_1_Beta:
 
