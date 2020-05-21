@@ -30,9 +30,27 @@ A a Pre-Final Year Computer Science Student, an experienced Software Developer w
 
 
 ### Working GIFS:
-<img src="image/chatapplication.gif" height="300em" /><img src="https://github.com/irahulcse/Rovers_Guide_Fluter/blob/master/images/rovers.gif" height="300em" width="180em" /><img src="https://github.com/irahulcse/Sound_View_App_Flutter/blob/master/images/report.gif" height="300em" width="180em" /><img src="https://github.com/irahulcse/Flutter_Shop_App_Tutorial/blob/master/images/rovers.gif" height="300em" width="300em" /><img src="https://github.com/irahulcse/Calculator_App_Flutter/blob/master/images/rovers.gif" height="300em" width="300em" /><img src="https://github.com/irahulcse/Portfolio_Card_Generator_Flutter/blob/master/images/1.png" height="350em" width="250em" /><img src="https://github.com/irahulcse/Dice_App_Flutter/blob/master/images/1.gif" height="350em" width="250em" /><img src="https://github.com/irahulcse/Telegram_Ui_Flutter/blob/master/images/rovers.gif" height="350em" width="250em" /><img src="https://github.com/irahulcse/Flutter_Bottom_Sheet_Tutorial/blob/master/assets/rovers.gif" height="350em" width="250em" /><img src="https://github.com/irahulcse/Mortage_Payment_1_Beta/blob/master/images/rovers.gif" height="350em" width="250em" /><img src="https://github.com/irahulcse/Flutter_Web_Firebase_Authentication/blob/master/images/rovers.gif" height="350em" width="250em" />
+<img src="image/chatapplication.gif" height="300em" /><img src="https://github.com/irahulcse/Rovers_Guide_Fluter/blob/master/images/rovers.gif" height="300em" width="180em" /><img src="https://github.com/irahulcse/Sound_View_App_Flutter/blob/master/images/report.gif" height="300em" width="180em" /><img src="https://github.com/irahulcse/Flutter_Shop_App_Tutorial/blob/master/images/rovers.gif" height="300em" width="300em" /><img src="https://github.com/irahulcse/Calculator_App_Flutter/blob/master/images/rovers.gif" height="300em" width="300em" /><img src="https://github.com/irahulcse/Portfolio_Card_Generator_Flutter/blob/master/images/1.png" height="350em" width="250em" /><img src="https://github.com/irahulcse/Dice_App_Flutter/blob/master/images/1.gif" height="350em" width="250em" /><img src="https://github.com/irahulcse/Telegram_Ui_Flutter/blob/master/images/rovers.gif" height="350em" width="250em" /><img src="https://github.com/irahulcse/Flutter_Bottom_Sheet_Tutorial/blob/master/assets/rovers.gif" height="350em" width="250em" /><img src="https://github.com/irahulcse/Mortage_Payment_1_Beta/blob/master/images/rovers.gif" height="350em" width="250em" /><img src="https://github.com/irahulcse/Flutter_Web_Firebase_Authentication/blob/master/images/rovers.gif" height="350em" width="250em" /><img src="https://github.com/irahulcse/Flutter_PDF_Viewer/blob/master/images/rovers.gif" height="350em" width="250em" />
+
+
 
 ### Live Working Project:
+
+#### 013 - Flutter_PDF_Viewer:
+
+In this application, basically I had used the Flutter Plugin related to the PDF and Files. The name of the different Plugins are as follows:
+
+1. file_picker: ^1.9.0+1
+2. flutter_full_pdf_viewer: ^1.0.6
+3. flutter_plugin_pdf_viewer: ^1.0.7
+
+Flutter Plugin PDF Viewer, gives us the hands on functionalites to see and scroll through the PDF, so that we can easily access it.
+
+**Deployed Link :point_right: [link](https://irahulcse.github.io/Flutter_PDF_Viewer/#/)**
+
+**Source Code Of Project :point_right: [link](https://github.com/irahulcse/Flutter_PDF_Viewer)**
+
+<img src="https://github.com/irahulcse/Flutter_PDF_Viewer/blob/master/images/rovers.png" height="500em" />
 
 #### 012 - Flutter_Web_Firebase_Authentication:
 
@@ -44,9 +62,9 @@ The article which I had referred can be found on this [link]().
 
 Everything is working quite fine and intutive.
 
-**Deployed Link :point_right: [link](https://github.com/irahulcse/Flutter_Web_Firebase_Authentication)**
+**Source Code of Project :point_right: [link](https://github.com/irahulcse/Flutter_Web_Firebase_Authentication)**
 
-**Source Code Of Project :point_right: [link](https://irahulcse.github.io/Flutter_Web_Firebase_Authentication/#/)**
+**Deployed Link :point_right: [link](https://irahulcse.github.io/Flutter_Web_Firebase_Authentication/#/)**
 
 <img src="https://github.com/irahulcse/Flutter_Web_Firebase_Authentication/blob/master/images/rovers.jpg" height="500em" />
 
