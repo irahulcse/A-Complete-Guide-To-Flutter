@@ -187,7 +187,7 @@ This is the basic project in which I had created the simple application by learn
  In this tutorial we break down the UI into Flutter Widgets, complete our layout and then tweak to get our final design to match our screenshots.
 
 ### Flutter v/s React Native Infrastructure:
-![Image](assets/infra2.png)
+![Image](assets/infra.png)
 
 ### Education/Contents:
 
