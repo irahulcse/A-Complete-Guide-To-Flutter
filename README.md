@@ -40,10 +40,10 @@ A a Pre-Final Year Computer Science Student, an experienced Software Developer w
 
 This App is basically created to learn about widgets like Expanded etc. The plugins used are mentioned below pls have a look to it.
 
-  1.  cloud_firestore: ^0.13.6
-  2.  flutter_screenutil: ^1.1.0
-  3.  random_color: ^1.0.5
-  4.  google_fonts: ^1.1.0
+    cloud_firestore: ^0.13.6
+    flutter_screenutil: ^1.1.0
+    random_color: ^1.0.5
+    google_fonts: ^1.1.0
 
 
 
@@ -58,9 +58,9 @@ This App is basically created to learn about widgets like Expanded etc. The plug
 
 In this application, basically I had used the Flutter Plugin related to the PDF and Files. The name of the different Plugins are as follows:
 
-1. file_picker: ^1.9.0+1
-2. flutter_full_pdf_viewer: ^1.0.6
-3. flutter_plugin_pdf_viewer: ^1.0.7
+ file_picker: ^1.9.0+1
+ flutter_full_pdf_viewer: ^1.0.6
+ flutter_plugin_pdf_viewer: ^1.0.7
 
 Flutter Plugin PDF Viewer, gives us the hands on functionalites to see and scroll through the PDF, so that we can easily access it.
 
