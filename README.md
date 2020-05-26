@@ -58,9 +58,10 @@ This App is basically created to learn about widgets like Expanded etc. The plug
 
 In this application, basically I had used the Flutter Plugin related to the PDF and Files. The name of the different Plugins are as follows:
 
- file_picker: ^1.9.0+1
- flutter_full_pdf_viewer: ^1.0.6
- flutter_plugin_pdf_viewer: ^1.0.7
+    file_picker: ^1.9.0+1
+    flutter_full_pdf_viewer: ^1.0.6
+    flutter_plugin_pdf_viewer: ^1.0.7
+
 
 Flutter Plugin PDF Viewer, gives us the hands on functionalites to see and scroll through the PDF, so that we can easily access it.
 
