@@ -42,7 +42,7 @@ This App is basically created to learn about widgets like Expanded etc. The plug
 
     cloud_firestore: ^0.13.6
     flutter_screenutil: ^1.1.0
-    random_color: ^1.0.5
+    random_color: ^1.0.5k
     google_fonts: ^1.1.0
 
 
