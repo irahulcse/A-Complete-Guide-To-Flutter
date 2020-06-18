@@ -56,13 +56,6 @@ Integerated Firebase Authentication and tested using the Flutter Web. Easy to in
 
 Bloc Pattern and Mobx Management App are the different State Management which can be used to create states. BLoC pattern was conceived to allow the reuse of the very same code independently of the platform: web application, mobile application, back-end. So yeah, this pattern was developed aiming to ease the workload on developers end while developing apps for a different platform with the idea of code reusability. Watch the video below to get more insight on the baby steps set by BLoC.
 
-    cloud_firestore: ^0.13.6
-    flutter_screenutil: ^1.1.0
-    random_color: ^1.0.5
-    google_fonts: ^1.1.0
-
-
-
 **This is an Flutter based Mobile Application, so nothing had been created till now.**
 
 **Source Code Of Project :point_right: [link](https://github.com/irahulcse/Flutter_Bloc_Pattern)**
