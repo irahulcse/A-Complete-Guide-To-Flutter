@@ -188,7 +188,7 @@ In this Porfolio App, I had learnt about the different widgets like **List Tile*
 
 If you found, it interesting pls :star: this repo. It will motivated me to work more hard.
 
-<!-- <img src="https://github.com/irahulcse/Portfolio_Card_Generator_Flutter/blob/master/images/rovers.jpg" height="500em" />  -->
+<img src="https://github.com/irahulcse/Portfolio_Card_Generator_Flutter/blob/master/images/rovers.jpg" height="500em" /> 
 
 #### 006 - Calculator's App Flutter:
 **Deployed Link :point_right: [link](https://irahulcse.github.io/Calculator_App_Flutter/#/)**
