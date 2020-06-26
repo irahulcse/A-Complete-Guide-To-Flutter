@@ -1,4 +1,4 @@
-![Image](assets/banner.png)
+a![Image](assets/banner.png)
 
 # Complete-Guide-To-Flutter(Mini Apps) :boom:
 ![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
@@ -30,10 +30,38 @@ A a Pre-Final Year Computer Science Student, an experienced Software Developer w
 
 
 ### Working GIFS:
-<img src="image/chatapplication.gif" height="300em" /><img src="https://github.com/irahulcse/Rovers_Guide_Fluter/blob/master/images/rovers.gif" height="300em" width="180em" /><img src="https://github.com/irahulcse/Sound_View_App_Flutter/blob/master/images/report.gif" height="300em" width="180em" /><img src="https://github.com/irahulcse/Flutter_Shop_App_Tutorial/blob/master/images/rovers.gif" height="300em" width="300em" /><img src="https://github.com/irahulcse/Calculator_App_Flutter/blob/master/images/rovers.gif" height="300em" width="300em" /><img src="https://github.com/irahulcse/Portfolio_Card_Generator_Flutter/blob/master/images/1.png" height="350em" width="250em" /><img src="https://github.com/irahulcse/Dice_App_Flutter/blob/master/images/1.gif" height="350em" width="250em" /><img src="https://github.com/irahulcse/Telegram_Ui_Flutter/blob/master/images/rovers.gif" height="350em" width="250em" /><img src="https://github.com/irahulcse/Flutter_Bottom_Sheet_Tutorial/blob/master/assets/rovers.gif" height="350em" width="250em" /><img src="https://github.com/irahulcse/Mortage_Payment_1_Beta/blob/master/images/rovers.gif" height="350em" width="250em" /><img src="https://github.com/irahulcse/Flutter_Web_Firebase_Authentication/blob/master/images/rovers.gif" height="350em" width="250em" /><img src="https://github.com/irahulcse/Flutter_PDF_Viewer/blob/master/images/rovers.gif" height="350em" width="250em" />
-<img src="https://github.com/irahulcse/Flutter_Quotes_App_Firebase/blob/master/images/rovers.gif" height="350em" width="250em" /><img src="https://github.com/irahulcse/Flutter_Web_Sign_In_Google_And_Anonymous/blob/master/images/rovers.gif" height="350em" width="250em" /><img src="https://github.com/irahulcse/Flutter_Bloc_Pattern/blob/master/images/rovers.gif" height="350em" width="250em" />
+<img src="image/chatapplication.gif" height="300em" /><img src="https://github.com/irahulcse/Rovers_Guide_Fluter/blob/master/images/rovers.gif" height="300em" width="180em" /><img src="https://github.com/irahulcse/Sound_View_App_Flutter/blob/master/images/report.gif" height="300em" width="180em" /><img src="https://github.com/irahulcse/Flutter_Shop_App_Tutorial/blob/master/images/rovers.gif" height="300em" width="300em" /><img src="https://github.com/irahulcse/Calculator_App_Flutter/blob/master/images/rovers.gif" height="300em" width="300em" /><img src="https://github.com/irahulcse/Portfolio_Card_Generator_Flutter/blob/master/images/1.png" height="350em" width="250em" /><img src="https://github.com/irahulcse/Dice_App_Flutter/blob/master/images/1.gif" height="350em" width="250em" /><img src="https://github.com/irahulcse/Telegram_Ui_Flutter/blob/master/images/rovers.gif" height="350em" width="250em" /><img src="https://github.com/irahulcse/Flutter_Bottom_Sheet_Tutorial/blob/master/assets/rovers.gif" height="350em" width="250em" /><img src="https://github.com/irahulcse/Mortage_Payment_1_Beta/blob/master/images/rovers.gif" height="350em" width="250em" /><img src="https://github.com/irahulcse/Flutter_Web_Firebase_Authentication/blob/master/images/rovers.gif" height="350em" width="250em" /><img src="https://github.com/irahulcse/Flutter_PDF_Viewer/blob/master/images/rovers.gif" height="350em" width="250em" /><img src="https://github.com/irahulcse/Flutter_Quotes_App_Firebase/blob/master/images/rovers.gif" height="350em" width="250em" /><img src="https://github.com/irahulcse/Flutter_Web_Sign_In_Google_And_Anonymous/blob/master/images/rovers.gif" height="350em" width="250em" /><img src="https://github.com/irahulcse/Flutter_Bloc_Pattern/blob/master/images/rovers.gif" height="350em" width="250em" /><img src="https://github.com/irahulcse/Flutter_News_App_Org/blob/master/images/rovers.gif" height="350em" width="250em" /><img src="https://github.com/irahulcse/Flutter-Food-App-UI/blob/master/images/rovers.gif" height="350em" width="250em" />
 
 ### Live Working Project:
+
+
+#### 018 - Flutter Fodd App UI:
+
+Flutter Food App UI is a project which is created to test the different animations options. It had used basic widgets like Column, Row and Expanded Widget and some Animations widgets are bundled with it.
+
+      
+Everything is working quite fine and intutive.
+
+**Source Code of Project :point_right: [link](https://github.com/irahulcse/Flutter-Food-App-UI)**
+
+<img src="https://github.com/irahulcse/Flutter-Food-App-UI/blob/master/images/rovers.jpg" height="500em" />
+
+#### 017 - Flutter NewsAPI.org:
+
+Flutter NewsAPI is a project which is created to fetch the data from the NewsAPI.org and listing it using the Cached Network Image, HTTP and WebView Flutter plugins, so that we will be able to create a News Application in a limited amount of time.
+
+    dependencies:
+      flutter:
+        sdk: flutter
+      cached_network_image: ^2.2.0+1
+      http: ^0.12.1
+      webview_flutter: ^0.3.22+1
+      
+Everything is working quite fine and intutive.
+
+**Source Code of Project :point_right: [link](https://github.com/irahulcse/Flutter_News_App_Org)**
+
+<img src="https://github.com/irahulcse/Flutter_News_App_Org/blob/master/images/rovers.jpg" height="500em" />
 
 #### 016- Flutter Web Sign In  Anomously App:
 
@@ -66,7 +94,7 @@ This App is basically created to learn about widgets like Expanded etc. The plug
 
     cloud_firestore: ^0.13.6
     flutter_screenutil: ^1.1.0
-    random_color: ^1.0.5
+    random_color: ^1.0.5k
     google_fonts: ^1.1.0
 
 
@@ -182,7 +210,7 @@ In this Calculator App, I had learnt about the different **Flutter States** and 
 
 If you found, it interesting pls :star: this repo. It will motivated me to work more hard.
 
-<img src="https://github.com/irahulcse/Calculator_App_Flutter/blob/master/images/rovers.jpg" height="500em" /> 
+<!-- <img src="https://github.com/irahulcse/Calculator_App_Flutter/blob/master/images/rovers.jpg" height="500em" />  -->
 
 #### 005 - Flutter_Shop's_App:
 **Deployed Link :point_right: [link](https://irahulcse.github.io/Flutter_Shop_App_Tutorial/#/)**
@@ -195,7 +223,7 @@ It is a basic project which is used to learn about the widget's.
 
 If you found, it interesting pls :star: this repo. It will motivated me to work more hard.
 
-<img src="https://github.com/irahulcse/Flutter_Shop_App_Tutorial/blob/master/images/rovers.jpg" height="500em" /> 
+<!-- <img src="https://github.com/irahulcse/Flutter_Shop_App_Tutorial/blob/master/images/rovers.jpg" height="500em" />  -->
 
 #### 004 - Sound_View_App_Flutter:
 **Deployed Link :point_right: [link](https://irahulcse.github.io/Sound_View_App_Flutter/#/)**
@@ -208,7 +236,7 @@ It is a basic project which is used to play the .mp3 files.
 
 If you found, it interesting pls :star: this repo. It will motivated me to work more hard.
 
-<img src="https://github.com/irahulcse/Sound_View_App_Flutter/blob/master/images/rovers.jpg" height="500em" /> 
+<!-- <img src="https://github.com/irahulcse/Sound_View_App_Flutter/blob/master/images/rovers.jpg" height="500em" />  -->
 
 #### 003 - Rover's Guide (One Stop Solution For Travellers)  
 **Deployed Link :point_right: [link](https://irahulcse.github.io/Rovers_Guide_Fluter/#/)**
@@ -219,7 +247,7 @@ Rover's Guide is my Pre-Final Year Computer Science Engineering Project. The mor
 
 If you found, it interesting pls :star: this repo. It will motivated me to work more hard.
 
-<img src="https://github.com/irahulcse/Rovers_Guide_Fluter/blob/master/images/rovers.jpg" height="500em" /> 
+<!-- <img src="https://github.com/irahulcse/Rovers_Guide_Fluter/blob/master/images/rovers.jpg" height="500em" />  -->
 
 #### 002 - Chat Application in Flutter   - 
 **Deployed Link:point_right: [link](https://irahulcse.github.io/Chat_Application_Flutter/#/)**
