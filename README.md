@@ -30,10 +30,22 @@ A a Pre-Final Year Computer Science Student, an experienced Software Developer w
 
 
 ### Working GIFS:
-<img src="image/chatapplication.gif" height="300em" /><img src="https://github.com/irahulcse/Rovers_Guide_Fluter/blob/master/images/rovers.gif" height="300em" width="180em" /><img src="https://github.com/irahulcse/Sound_View_App_Flutter/blob/master/images/report.gif" height="300em" width="180em" /><img src="https://github.com/irahulcse/Flutter_Shop_App_Tutorial/blob/master/images/rovers.gif" height="300em" width="300em" /><img src="https://github.com/irahulcse/Calculator_App_Flutter/blob/master/images/rovers.gif" height="300em" width="300em" /><img src="https://github.com/irahulcse/Portfolio_Card_Generator_Flutter/blob/master/images/1.png" height="350em" width="250em" /><img src="https://github.com/irahulcse/Dice_App_Flutter/blob/master/images/1.gif" height="350em" width="250em" /><img src="https://github.com/irahulcse/Telegram_Ui_Flutter/blob/master/images/rovers.gif" height="350em" width="250em" /><img src="https://github.com/irahulcse/Flutter_Bottom_Sheet_Tutorial/blob/master/assets/rovers.gif" height="350em" width="250em" /><img src="https://github.com/irahulcse/Mortage_Payment_1_Beta/blob/master/images/rovers.gif" height="350em" width="250em" /><img src="https://github.com/irahulcse/Flutter_Web_Firebase_Authentication/blob/master/images/rovers.gif" height="350em" width="250em" /><img src="https://github.com/irahulcse/Flutter_PDF_Viewer/blob/master/images/rovers.gif" height="350em" width="250em" /><img src="https://github.com/irahulcse/Flutter_Quotes_App_Firebase/blob/master/images/rovers.gif" height="350em" width="250em" /><img src="https://github.com/irahulcse/Flutter_Web_Sign_In_Google_And_Anonymous/blob/master/images/rovers.gif" height="350em" width="250em" /><img src="https://github.com/irahulcse/Flutter_Bloc_Pattern/blob/master/images/rovers.gif" height="350em" width="250em" />><img src="https://github.com/irahulcse/Flutter_News_App_Org/blob/master/images/rovers.gif" height="350em" width="250em" />>
+<img src="image/chatapplication.gif" height="300em" /><img src="https://github.com/irahulcse/Rovers_Guide_Fluter/blob/master/images/rovers.gif" height="300em" width="180em" /><img src="https://github.com/irahulcse/Sound_View_App_Flutter/blob/master/images/report.gif" height="300em" width="180em" /><img src="https://github.com/irahulcse/Flutter_Shop_App_Tutorial/blob/master/images/rovers.gif" height="300em" width="300em" /><img src="https://github.com/irahulcse/Calculator_App_Flutter/blob/master/images/rovers.gif" height="300em" width="300em" /><img src="https://github.com/irahulcse/Portfolio_Card_Generator_Flutter/blob/master/images/1.png" height="350em" width="250em" /><img src="https://github.com/irahulcse/Dice_App_Flutter/blob/master/images/1.gif" height="350em" width="250em" /><img src="https://github.com/irahulcse/Telegram_Ui_Flutter/blob/master/images/rovers.gif" height="350em" width="250em" /><img src="https://github.com/irahulcse/Flutter_Bottom_Sheet_Tutorial/blob/master/assets/rovers.gif" height="350em" width="250em" /><img src="https://github.com/irahulcse/Mortage_Payment_1_Beta/blob/master/images/rovers.gif" height="350em" width="250em" /><img src="https://github.com/irahulcse/Flutter_Web_Firebase_Authentication/blob/master/images/rovers.gif" height="350em" width="250em" /><img src="https://github.com/irahulcse/Flutter_PDF_Viewer/blob/master/images/rovers.gif" height="350em" width="250em" /><img src="https://github.com/irahulcse/Flutter_Quotes_App_Firebase/blob/master/images/rovers.gif" height="350em" width="250em" /><img src="https://github.com/irahulcse/Flutter_Web_Sign_In_Google_And_Anonymous/blob/master/images/rovers.gif" height="350em" width="250em" /><img src="https://github.com/irahulcse/Flutter_Bloc_Pattern/blob/master/images/rovers.gif" height="350em" width="250em" /><img src="https://github.com/irahulcse/Flutter-ReadIt-Application/blob/beta-release/image/rovers.gif" height="350em" width="250em" />
 
 ### Live Working Project:
 
+#### 018 - Flutter READ_IT Application:
+Flutter ReadIt Application is an online story reading application, which can be used to read interesting stories in a chat format. Flutter READIT Application are used on the top of Flutter(Dart Programming Language).
+
+
+    simple_animations: ^2.2.1
+
+
+**Source Code of Project :point_right: [link](https://github.com/irahulcse/Flutter-ReadIt-Application)**
+
+**Deployed Link :point_right: [link](https://irahulcse.github.io/Flutter-ReadIt-Application/#/)**
+
+<img src="https://github.com/irahulcse/Flutter-ReadIt-Application/blob/beta-release/image/rovers.jpg" height="500em" />
 
 #### 017 - Flutter NewsAPI.org:
 
@@ -188,7 +200,7 @@ In this Porfolio App, I had learnt about the different widgets like **List Tile*
 
 If you found, it interesting pls :star: this repo. It will motivated me to work more hard.
 
-<img src="https://github.com/irahulcse/Portfolio_Card_Generator_Flutter/blob/master/images/rovers.jpg" height="500em" /> 
+<img src="https://github.com/irahulcse/Portfolio_Card_Generator_Flutter/blob/master/images/rovers.jpg" height="500em" />  
 
 #### 006 - Calculator's App Flutter:
 **Deployed Link :point_right: [link](https://irahulcse.github.io/Calculator_App_Flutter/#/)**
