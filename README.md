@@ -38,18 +38,7 @@ A a Pre-Final Year Computer Science Student, an experienced Software Developer w
 
 ### Live Working Project:
 
-#### 018 - Flutter READ_IT Application:
-Flutter ReadIt Application is an online story reading application, which can be used to read interesting stories in a chat format. Flutter READIT Application are used on the top of Flutter(Dart Programming Language).
 
-
-    simple_animations: ^2.2.1
-
-
-**Source Code of Project :point_right: [link](https://github.com/irahulcse/Flutter-ReadIt-Application)**
-
-**Deployed Link :point_right: [link](https://irahulcse.github.io/Flutter-ReadIt-Application/#/)**
-
-<img src="https://github.com/irahulcse/Flutter-ReadIt-Application/blob/beta-release/image/rovers.jpg" height="500em" />
 
 #### 021 - Flutter Swiggy Application UI:
 
