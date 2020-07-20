@@ -1,0 +1,26 @@
+Complete Guide To Flutter Project(#100FlutterAppChallenge)
+
+Hey, Everyone!
+
+#22ndApp
+
+I'm happy to share the update the in Project(Complete Guides to Flutter). Today I had created my 22nd's App, Flutter Pokemon Go Application, this was one of the project on which I had started working 45 days or 50 days back, so today's morning I just though to complete it and push all the commit's. Flutter Pokemon Application is a very intutive and nice UI and JSON based Application in this we are basically fetching ther result from the JSON File to create Card based UI had taken place. For this particular I had referred a youtube video because the concept were quite new for me, I will put the link of Creator in this post, if found on Youtube.
+
+
+Learnt about the following:
+    1. [✅]Widgets created for the UI are like as Card, Hero, Animation, Positioned.
+    2  [✅]Parsed the data using **JSON Decode** which helped to bring the data from the API in the form of List.
+    3  [✅]Map is an data structure which is used for passing it through the function.
+
+
+As Stated, in the earlier post, I am trying to kept my promise to Reddit Community to push one app everyday. Hope to maintain this continuity till my 100 Apps.
+
+Main Repo Link is :https://github.com/irahulcse/A-Complete-Guide-To-Flutter
+You can check out the repo: https://github.com/irahulcse/A-Complete-Guide-To-Flutter#022---flutter-pokemon-application
+
+Please Star this repo or follow me on GitHub, if you found it interesting. Pls do let me know if you're interested in #contributing towards this project.
+
+Discord Id is: rahul_chandra#1150
+
+
+#EveryFlutterAppsCount
