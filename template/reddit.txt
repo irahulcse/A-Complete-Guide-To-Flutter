@@ -32,7 +32,7 @@ Being an Open Source Developer and Enthusiast, I had met with lots of developers
 
 6.Flutter Web Sign In Anonymously App:
 
-7. Flutter News API.org Project
+7. Flutter News API.org Project 
 
 8. Flutter Movie App using JSON
 
