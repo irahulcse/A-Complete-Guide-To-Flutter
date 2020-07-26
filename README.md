@@ -280,7 +280,7 @@ It is a basic project which is used to play the .mp3 files.
 
 If you found, it interesting pls :star: this repo. It will motivated me to work more hard.
 
-<!-- <img src="https://github.com/irahulcse/Sound_View_App_Flutter/blob/master/images/rovers.jpg" height="500em" />  -->
+<img src="https://github.com/irahulcse/Sound_View_App_Flutter/blob/master/images/rovers.jpg" height="500em" /> 
 
 #### 003 - Rover's Guide (One Stop Solution For Travellers)  
 **Deployed Link :point_right: [link](https://irahulcse.github.io/Rovers_Guide_Fluter/#/)**
