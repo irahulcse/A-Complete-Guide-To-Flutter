@@ -7,6 +7,11 @@
 [![GitHub stars](https://img.shields.io/github/stars/irahulcse/A-Complete-Guide-To-Flutter.svg?style=social&label=Star)](https://github.com/irahulcse/A-Complete-Guide-To-Flutter) [![GitHub forks](https://img.shields.io/github/forks/irahulcse/A-Complete-Guide-To-Flutter.svg?style=social&label=Fork)](https://github.com/irahulcse/A-Complete-Guide-To-Flutter/fork)
 [![GitHub watchers](https://img.shields.io/github/watchers/irahulcse/A-Complete-Guide-To-Flutter.svg?style=social&label=Watch)](https://github.com/irahulcse/A-Complete-Guide-To-Flutter)
 [![GitHub followers](https://img.shields.io/github/followers/irahulcse.svg?style=social&label=Follow)](https://github.com/irahulcse/A-Complete-Guide-To-Flutter) [![Twitter Followers](https://img.shields.io/twitter/follow/1rahulchandra1.svg?style=social)](https://twitter.com/1rahulchandra1)
+![](https://img.shields.io/github/repo-size/TheAlgorithms/Python.svg?label=Repo%20size&style=flat-square)&nbsp;      
+        
+        
+        
+
 
 All the Mini Apps coded in Dart Language and live working project hosted on GitHub using the Flutter Mobile Developement UI Tool Kit. Working project can be found on the given below  links.
 
