@@ -11,8 +11,6 @@
         
         
         
-
-
 All the Mini Apps coded in Dart Language and live working project hosted on GitHub using the Flutter Mobile Developement UI Tool Kit. Working project can be found on the given below  links.
 
 **Vision and Mission:** I am trying to create one of the biggest repo, related to Flutter with working application using Flutter Web. I will also post Important Link and Channels, to learn quickly with working procedure.
