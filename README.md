@@ -48,7 +48,6 @@ Flutter Pokemon Application is a very intutive and nice UI and JSON based Applic
 * [✅]Map is an data structure which is used for passing it through the function.
 * [✅] Live Working Project
 * [✅] Widgets used like ListTile, ListView Builder, Center, Text and Circle Avatar Widgets
-<!-- * [❌] Everything is static right now, no API integration done on it. -->
       
 Everything is working quite fine and intutive.
 
@@ -313,8 +312,6 @@ This is the basic project in which I had created the simple application by learn
 
 All my brothers and sister, it is very important to understand that we are here to learn and excel in our professional life. So it's not really important from where we learn the stuff either from Youtube, Medium etc. If any one of you had some great website to share. Pls open an issue. I am looking forward to create the one of the **Biggest Repository On Flutter**, so that any one can learn from it.
 
-### Flutter Opportunities in 2020:
-![Image](assets/Flutter_In_2020.png)
 
 #### Some Git Commands for Best Workflow Practices: 
 You can follow the below workflow, if you are new to Git. 
@@ -371,6 +368,10 @@ When there have been changes in the main repo that you want to get, the cleanest
 
 For help getting started with Flutter, view our online
 [documentation](https://flutter.dev/).
+
+
+### Flutter Opportunities in 2020:
+![Image](assets/Flutter_In_2020.png)
 
 
 ## Contribution:
