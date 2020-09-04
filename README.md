@@ -57,6 +57,62 @@ Everything is working quite fine and intutive.
 
 <img src="https://github.com/irahulcse/Flutter_Pokemon_App/blob/master/images/rovers.jpg" height="500em" />
 
+#### 022 - Flutter Pokemon Application:
+
+Flutter Pokemon Application is a very intutive and nice UI and JSON based Application in this we are basically fetching ther result from the JSON File to create UI. 
+
+#### Unique Features of the Application:
+* [✅]Widgets created for the UI are like as Card, Hero, Animation, Positioned.
+* [✅] Parsed the data using **JSON Decode** which helped to bring the data from the API in the form of List.
+* [✅]Map is an data structure which is used for passing it through the function.
+* [✅] Live Working Project
+* [✅] Widgets used like ListTile, ListView Builder, Center, Text and Circle Avatar Widgets
+      
+Everything is working quite fine and intutive.
+
+**Deployed Link :point_right: [link](https://irahulcse.github.io/Flutter_Pokemon_App/)**
+
+**Source Code of Project :point_right: [link](https://github.com/irahulcse/Flutter_Pokemon_App)**
+
+<img src="https://github.com/irahulcse/Flutter_Pokemon_App/blob/master/images/rovers.jpg" height="500em" />
+#### 022 - Flutter Pokemon Application:
+
+Flutter Pokemon Application is a very intutive and nice UI and JSON based Application in this we are basically fetching ther result from the JSON File to create UI. 
+
+#### Unique Features of the Application:
+* [✅]Widgets created for the UI are like as Card, Hero, Animation, Positioned.
+* [✅] Parsed the data using **JSON Decode** which helped to bring the data from the API in the form of List.
+* [✅]Map is an data structure which is used for passing it through the function.
+* [✅] Live Working Project
+* [✅] Widgets used like ListTile, ListView Builder, Center, Text and Circle Avatar Widgets
+      
+Everything is working quite fine and intutive.
+
+**Deployed Link :point_right: [link](https://irahulcse.github.io/Flutter_Pokemon_App/)**
+
+**Source Code of Project :point_right: [link](https://github.com/irahulcse/Flutter_Pokemon_App)**
+
+<img src="https://github.com/irahulcse/Flutter_Pokemon_App/blob/master/images/rovers.jpg" height="500em" />
+
+#### 022 - Flutter Pokemon Application:
+
+Flutter Pokemon Application is a very intutive and nice UI and JSON based Application in this we are basically fetching ther result from the JSON File to create UI. 
+
+#### Unique Features of the Application:
+* [✅]Widgets created for the UI are like as Card, Hero, Animation, Positioned.
+* [✅] Parsed the data using **JSON Decode** which helped to bring the data from the API in the form of List.
+* [✅]Map is an data structure which is used for passing it through the function.
+* [✅] Live Working Project
+* [✅] Widgets used like ListTile, ListView Builder, Center, Text and Circle Avatar Widgets
+      
+Everything is working quite fine and intutive.
+
+**Deployed Link :point_right: [link](https://irahulcse.github.io/Flutter_Pokemon_App/)**
+
+**Source Code of Project :point_right: [link](https://github.com/irahulcse/Flutter_Pokemon_App)**
+
+<img src="https://github.com/irahulcse/Flutter_Pokemon_App/blob/master/images/rovers.jpg" height="500em" />
+
 
 #### 021 - Flutter Swiggy Application UI:
 
