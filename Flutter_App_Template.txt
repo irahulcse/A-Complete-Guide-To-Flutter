@@ -21,4 +21,4 @@ Everything is working quite fine and intutive.
 **Deployed Link :point_right: [link](https://irahulcse.github.io/Flutter_Web_Firebase_Authentication/#/)**
 **Source Code of Project :point_right: [link](https://github.com/irahulcse/Flutter_News_App_Org)**
 
-//"https://github.com/irahulcse/Flutter_News_App_Org/blob/master/images/rovers.jpg" height="500em" />
+<img src="https://github.com/irahulcse/Flutter_News_App_Org/blob/master/images/rovers.jpg" height="500em" />
