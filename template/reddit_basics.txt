@@ -15,8 +15,8 @@ Learnt about the following:
 
 As Stated, in the earlier post, I am trying to kept my promise to Reddit Community to push one app everyday. Hope to maintain this continuity till my 100 Apps.
 
-Main Repo Link is :https://github.com/irahulcse/A-Complete-Guide-To-Flutter
 You can check out the repo: https://github.com/irahulcse/A-Complete-Guide-To-Flutter#022---flutter-pokemon-application
+Main Repo Link is :https://github.com/irahulcse/A-Complete-Guide-To-Flutter
 
 Please Star this repo or follow me on GitHub, if you found it interesting. Pls do let me know if you're interested in #contributing towards this project.
 

@@ -1,0 +1,20 @@
+Hey, Everyone!
+
+#54Application
+I'm happy to share the update the in Project(Complete Guides to Flutter). Today I had created my 54's App, Tensorflow Lite using Dog/Cat Classifier. In this basically I had used the Tensorflow lite to create the Classifier to distinguish between Dog and Cat. 
+
+Unique Features of the Application:
+
+    [✅] Used Kaggle Dataset of Cat/Dogs.
+    [✅] Tensorflow Lite had been used to do the classification.
+    [✅] Used around more than 2000 image each for Dog and Cat .
+    [✅] Prediction percentage is overall 90%.
+
+
+You can check out the repo: https://github.com/irahulcse/A-Complete-Guide-To-Flutter#54---tensorflow-lite-dog-cat-classifier-using-flutter
+Main Repo Link is :https://github.com/irahulcse/A-Complete-Guide-To-Flutter
+
+Please Star this repo or follow me on GitHub, if you found it interesting. Pls do let me know if you're interested in #contributing towards this project.
+
+Discord Id is: rahul_chandra#1150
+#EveryFlutterAppsCount
