@@ -38,6 +38,28 @@ A a Pre-Final Year Computer Science Student, an experienced Software Developer w
 
 ### Live Working Project:
 
+
+#### 53 - Tensorflow Lite-Dog-Cat-Classifier-using-Flutter:
+
+Created an Dog v/s Cat Classifer using Tensorflow in Flutter, to check the cat v/s dogs.
+
+#### Unique Features of the Application:
+* [✅] Used Kaggle Dataset of Cat/Dogs.
+* [✅] Tensorflow Lite had been used to do the classification.
+* [✅] Used around more than 2000 image each for Dog and Cat .
+* [✅] Prediction percentage is overall 90%.
+<!-- * [✅] Tensorflow Lite had been used to do the classification. -->
+
+
+      
+Everything is working quite fine and intutive.
+
+**Deployed Link :point_right: [link](https://irahulcse.github.io/Flutter_Pokemon_App/)**
+
+**Source Code of Project :point_right: [link](https://github.com/irahulcse/Flutter_Pokemon_App)**
+
+<img src="https://github.com/irahulcse/Flutter_Pokemon_App/blob/master/images/rovers.jpg" height="500em" />
+
 #### 53 - Flutter Pokemon Application:
 
 Flutter Pokemon Application is a very intutive and nice UI and JSON based Application in this we are basically fetching ther result from the JSON File to create UI. 
