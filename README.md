@@ -31,7 +31,7 @@ A a Pre-Final Year Computer Science Student, an experienced Software Developer w
 <a href="https://facebook.com"><img src="https://github.com/aritraroy/social-icons/blob/master/facebook-icon.png?raw=true" width="60"></a>
 <a href="https://instagram.com/rahulchandra_99"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="60"></a>
 
-##### Quick Note:
+### Quick Note:
 **As the size of this particular repo had increased considerably, so I had not included Banner for each project given below. Sorry, but lots of my friends are from remote areas and I think we need to think about the Data Connection Problem issues for them even.**
 
 ### Working GIFS:
