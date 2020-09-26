@@ -1,49 +1,16 @@
 Complete Guide To Flutter Project(#100FlutterAppChallenge)
-
 Hey, Everyone!
-
-
-
-I'm happy to share the update the in Project(Complete Guides to Flutter). Today I had created my 21's App, In Indian Culture 21 is a lucky no, so thought to share it with my Reddit Community after a long time. I know, I was not consistent(because of my SDE Internship) in this #100DaysFlutterChallenge, but I am happy that in the last 1 week I was able to create 10 Mini Apps related to Flutter where I had learnt about following:
-
-
-
-Different widgets like Bottom Navigation bar, Dynamic Search bar.
-
-Animations during the widget.
-
-State Management Techniques like Provider, Redux and Mobx etc.
-
-Being an Open Source Developer and Enthusiast, I had met with lots of developers and their project which had helped a hundred-thousands of people all around the world. I also want the Complete Guide to Flutter will be able to create a resource full of knowledge so that any newbie can learn from that repo.
-
-10 Apps which I had created in this 1-2 weeks are as follows:
-
-
-
-1.Flutter_PDF_Viewer
-
-2.Flutter_Web_Firebase_Authentication
-
-3.Flutter_Mortage_Payment_App_1_Beta
-
-4. Firebase Quotes App
-
-5.Bloc Pattern Weather App(#WIP)
-
-6.Flutter Web Sign In Anonymously App:
-
-7. Flutter News API.org Project 
-
-8. Flutter Movie App using JSON
-
-and 2 more project includes UI design related to Food Application.
-
-From today onwards, I will make sure that I will create 1 App every day, so stay tuned.
-
-You can check out the repo: https://github.com/irahulcse/A-Complete-Guide-To-Flutter
-
-Please Star this repo, if you found it interesting. Do let me know if you're interested in #contributing towards this project.
-
-
-
+#55Application
+I'm happy to share the update the in Project(Complete Guides to Flutter). Today I had created my 55's App, #  Flower Classifier using Tensorflow Flite using Flutter:boom:. 
+Created a Flower Classifier which can be used to create the model which can be used to find the difference between them 
+Learnt about the following:
+* [✅] Used Kaggle Dataset of different flowers.
+* [✅] Tensorflow Lite had been used to do the classification.
+* [✅] Trained the data on more than 10000 images of different flowers.
+* [✅] Average Accuracy is around 92%.
+As stated, in the earlier post, I am trying to keep my promise to the Reddit Community to push one app every day. Hope to maintain this continuity until my 100 Apps.
+You can check out the repo: https://github.com/irahulcse/Tensorflow-Flower-Classifier-using-Flutter
+Main Repo Link is:https://github.com/irahulcse/A-Complete-Guide-To-Flutter
+Please Star this repo or follow me on GitHub, if you found it interesting. Pls, do let me know if you're interested in #contributing towards this project.
+Discord Id is: rahul_chandra#1150
 #EveryFlutterAppsCount
