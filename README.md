@@ -35,7 +35,7 @@ A a Pre-Final Year Computer Science Student, an experienced Software Developer w
 **As the size of this particular repo had increased considerably, so I had not included Banner for each project given below. Sorry, but lots of my friends are from remote areas and I think we need to think about the Data Connection Problem issues for them even. Thanks guy for understanding and supporting it 🙏🙏🙏🙏🙏🙏🙏**
 
 ### Working GIFS:
-<!-- <img src="image/chatapplication.gif" height="300em" /><img src="https://github.com/irahulcse/Rovers_Guide_Fluter/blob/master/images/rovers.gif" height="300em" width="180em" /><img src="https://github.com/irahulcse/Sound_View_App_Flutter/blob/master/images/report.gif" height="300em" width="180em" /><img src="https://github.com/irahulcse/Flutter_Shop_App_Tutorial/blob/master/images/rovers.gif" height="300em" width="300em" /><img src="https://github.com/irahulcse/Calculator_App_Flutter/blob/master/images/rovers.gif" height="300em" width="300em" /><img src="https://github.com/irahulcse/Portfolio_Card_Generator_Flutter/blob/master/images/1.png" height="350em" width="250em" /><img src="https://github.com/irahulcse/Dice_App_Flutter/blob/master/images/1.gif" height="350em" width="250em" /><img src="https://github.com/irahulcse/Telegram_Ui_Flutter/blob/master/images/rovers.gif" height="350em" width="250em" /><img src="https://github.com/irahulcse/Flutter_Bottom_Sheet_Tutorial/blob/master/assets/rovers.gif" height="350em" width="250em" /><img src="https://github.com/irahulcse/Mortage_Payment_1_Beta/blob/master/images/rovers.gif" height="350em" width="250em" /><img src="https://github.com/irahulcse/Flutter_Web_Firebase_Authentication/blob/master/images/rovers.gif" height="350em" width="250em" /><img src="https://github.com/irahulcse/Flutter_PDF_Viewer/blob/master/images/rovers.gif" height="350em" width="250em" /><img src="https://github.com/irahulcse/Flutter_Quotes_App_Firebase/blob/master/images/rovers.gif" height="350em" width="250em" /><img src="https://github.com/irahulcse/Flutter_Web_Sign_In_Google_And_Anonymous/blob/master/images/rovers.gif" height="350em" width="250em" /><img src="https://github.com/irahulcse/Flutter_Bloc_Pattern/blob/master/images/rovers.gif" height="350em" width="250em" /><img src="https://github.com/irahulcse/Flutter-ReadIt-Application/blob/beta-release/image/rovers.gif" height="350em" width="250em" /><img src="https://github.com/irahulcse/Flutter-Verticle-Page-Slider/blob/master/images/rovers.gif" height="350em" width="250em" /><img src="https://github.com/irahulcse/Flutter-Movies-App-using-Json/blob/master/images/rovers.gif" height="350em" width="250em" /><img src="https://github.com/irahulcse/Flutter-Swiggy-Application-UI/blob/master/images/rovers.gif" height="350em" width="250em" /><img src="https://github.com/irahulcse/Flutter_Pokemon_App/blob/master/images/rovers.gif" height="350em" width="250em" /><img src="https://github.com/irahulcse/Tensorflow-Dog-Cat-Classifier-using-Flutter/blob/master/images/rovers.gif" height="450em" width="250em" /><img src="https://github.com/irahulcse/Tensorflow-Flower-Classifier-using-Flutter/blob/master/images/rovers.gif" height="450em" width="250em" /><img src="https://github.com/irahulcse/Tensorflow_Fruits_Classifier_using_Flutter/blob/master/images/rovers.gif" height="450em" width="250em" /> -->
+<img src="image/chatapplication.gif" height="300em" /><img src="https://github.com/irahulcse/Rovers_Guide_Fluter/blob/master/images/rovers.gif" height="300em" width="180em" /><img src="https://github.com/irahulcse/Sound_View_App_Flutter/blob/master/images/report.gif" height="300em" width="180em" /><img src="https://github.com/irahulcse/Flutter_Shop_App_Tutorial/blob/master/images/rovers.gif" height="300em" width="300em" /><img src="https://github.com/irahulcse/Calculator_App_Flutter/blob/master/images/rovers.gif" height="300em" width="300em" /><img src="https://github.com/irahulcse/Portfolio_Card_Generator_Flutter/blob/master/images/1.png" height="350em" width="250em" /><img src="https://github.com/irahulcse/Dice_App_Flutter/blob/master/images/1.gif" height="350em" width="250em" /><img src="https://github.com/irahulcse/Telegram_Ui_Flutter/blob/master/images/rovers.gif" height="350em" width="250em" /><img src="https://github.com/irahulcse/Flutter_Bottom_Sheet_Tutorial/blob/master/assets/rovers.gif" height="350em" width="250em" /><img src="https://github.com/irahulcse/Mortage_Payment_1_Beta/blob/master/images/rovers.gif" height="350em" width="250em" /><img src="https://github.com/irahulcse/Flutter_Web_Firebase_Authentication/blob/master/images/rovers.gif" height="350em" width="250em" /><img src="https://github.com/irahulcse/Flutter_PDF_Viewer/blob/master/images/rovers.gif" height="350em" width="250em" /><img src="https://github.com/irahulcse/Flutter_Quotes_App_Firebase/blob/master/images/rovers.gif" height="350em" width="250em" /><img src="https://github.com/irahulcse/Flutter_Web_Sign_In_Google_And_Anonymous/blob/master/images/rovers.gif" height="350em" width="250em" /><img src="https://github.com/irahulcse/Flutter_Bloc_Pattern/blob/master/images/rovers.gif" height="350em" width="250em" /><img src="https://github.com/irahulcse/Flutter-ReadIt-Application/blob/beta-release/image/rovers.gif" height="350em" width="250em" /><img src="https://github.com/irahulcse/Flutter-Verticle-Page-Slider/blob/master/images/rovers.gif" height="350em" width="250em" /><img src="https://github.com/irahulcse/Flutter-Movies-App-using-Json/blob/master/images/rovers.gif" height="350em" width="250em" /><img src="https://github.com/irahulcse/Flutter-Swiggy-Application-UI/blob/master/images/rovers.gif" height="350em" width="250em" /><img src="https://github.com/irahulcse/Flutter_Pokemon_App/blob/master/images/rovers.gif" height="350em" width="250em" /><img src="https://github.com/irahulcse/Tensorflow-Dog-Cat-Classifier-using-Flutter/blob/master/images/rovers.gif" height="450em" width="250em" /><img src="https://github.com/irahulcse/Tensorflow-Flower-Classifier-using-Flutter/blob/master/images/rovers.gif" height="450em" width="250em" /><img src="https://github.com/irahulcse/Tensorflow_Fruits_Classifier_using_Flutter/blob/master/images/rovers.gif" height="450em" width="250em" />
 
 ### Live Working Project:
 
@@ -206,91 +206,91 @@ Integerated Firebase Authentication and tested using the Flutter Web. Easy to in
 
 **Source Code of Project :point_right: [link](https://github.com/irahulcse/Flutter-Startup-Name-Generator)**
 
-<img src="https://github.com/irahulcse/Flutter-Startup-Name-Generator/blob/master/images/rovers.jpg" height="500em" />
+<!-- <img src="https://github.com/irahulcse/Flutter-Startup-Name-Generator/blob/master/images/rovers.jpg" height="500em" /> -->
 
 #### 43 -  Flutter-UI-Web-Newyork-Times:
 
 
 **Source Code of Project :point_right: [link](https://github.com/irahulcse/Flutter-UI-Web-Newyork-Times)**
 
-<img src="https://github.com/irahulcse/Flutter-UI-Web-Newyork-Times/blob/master/images/rovers.jpg" height="500em" />
+<!-- <img src="https://github.com/irahulcse/Flutter-UI-Web-Newyork-Times/blob/master/images/rovers.jpg" height="500em" /> -->
 
 #### 42 - Flutter Native-Application-with-Google-Maps-Integeration:
 
 
 **Source Code of Project :point_right: [link](https://github.com/irahulcse/Flutter-Native-Application-with-Google-Maps-Integeration)**
 
-<img src="https://github.com/irahulcse/Flutter-Native-Application-with-Google-Maps-Integeration/blob/master/images/rover.jpg" height="500em" />
+<!-- <img src="https://github.com/irahulcse/Flutter-Native-Application-with-Google-Maps-Integeration/blob/master/images/rover.jpg" height="500em" /> -->
 
 #### 41 - Flutter Notes-App-For-Mobile-App-using-Hive-Database:
 
 
 **Source Code of Project :point_right: [link](https://github.com/irahulcse/Notes-App-For-Mobile-App-using-Hive-Database)**
 
-<img src="https://github.com/irahulcse/Notes-App-For-Mobile-App-using-Hive-Database/blob/master/images/rover.jpg" height="500em" />
+<!-- <img src="https://github.com/irahulcse/Notes-App-For-Mobile-App-using-Hive-Database/blob/master/images/rover.jpg" height="500em" /> -->
 
 #### 40 - Flutter Quiz_Application_Flutter:
 
 
 **Source Code of Project :point_right: [link](https://github.com/irahulcse/Quiz_Application_Flutter)**
 
-<img src="https://github.com/irahulcse/Quiz_Application_Flutter/blob/master/images/rovers.jpg" height="500em" />
+<!-- <img src="https://github.com/irahulcse/Quiz_Application_Flutter/blob/master/images/rovers.jpg" height="500em" /> -->
 
 #### 39 - Flutter Whatsapp_UI_Clone_Flutter:
 
 
 **Source Code of Project :point_right: [link](https://github.com/irahulcse/Whatsapp_UI_Clone_Flutter)**
 
-<img src="https://github.com/irahulcse/Whatsapp_UI_Clone_Flutter/blob/master/images/rovers.jpg" height="500em" />
+<!-- <img src="https://github.com/irahulcse/Whatsapp_UI_Clone_Flutter/blob/master/images/rovers.jpg" height="500em" /> -->
 
 #### 38 - Flutter Dynamic_Theme_Enabled_Flutter :
 
 
 **Source Code of Project :point_right: [link](https://github.com/irahulcse/Dynamic_Theme_Enabled_Flutter)**
 
-<img src="https://github.com/irahulcse/Dynamic_Theme_Enabled_Flutter/blob/master/images/rovers.jpg" height="500em" />
+<!-- <img src="https://github.com/irahulcse/Dynamic_Theme_Enabled_Flutter/blob/master/images/rovers.jpg" height="500em" /> -->
 
 #### 37 - Flutter Chat_Application_Flutter:
 
 
 **Source Code of Project :point_right: [link](https://github.com/irahulcse/Chat_Application_Flutter)**
 
-<img src="https://github.com/irahulcse/Chat_Application_Flutter/blob/master/images/chatapplicationflutter.jpg" height="500em" />
+<!-- <img src="https://github.com/irahulcse/Chat_Application_Flutter/blob/master/images/chatapplicationflutter.jpg" height="500em" /> -->
 
 #### 36 - Flutter save_recipes:
 
 
 **Source Code of Project :point_right: [link](https://github.com/irahulcse/save_recipes)**
 
-<img src="https://github.com/irahulcse/save_recipes/blob/master/images/rovers.jpg" height="500em" />
+<!-- <img src="https://github.com/irahulcse/save_recipes/blob/master/images/rovers.jpg" height="500em" /> -->
 
 #### 35 - Flutter Covid_19_Flutter_App :
 
 
 **Source Code of Project :point_right: [link](https://github.com/irahulcse/Covid_19_Flutter_App)**
 
-<img src="https://github.com/irahulcse/Covid_19_Flutter_App/blob/master/images/rovers.jpg" height="500em" />
+<!-- <img src="https://github.com/irahulcse/Covid_19_Flutter_App/blob/master/images/rovers.jpg" height="500em" /> -->
 
 #### 34 - Flutter FriendChat Application :
 
 
 **Source Code of Project :point_right: [link](https://github.com/irahulcse/FriendChat_App_Flutter)**
 
-<img src="https://github.com/irahulcse/FriendChat_App_Flutter/blob/master/images/rovers.jpg" height="500em" />
+<!-- <img src="https://github.com/irahulcse/FriendChat_App_Flutter/blob/master/images/rovers.jpg" height="500em" /> -->
 
 #### 33 - Flutter Instagroot Application:
 
 
 **Source Code of Project :point_right: [link](https://github.com/irahulcse/Instagroot_App_Flutter)**
 
-<img src="https://github.com/irahulcse/Instagroot_App_Flutter/blob/master/images/rovers.jpg" height="500em" />
+<!-- <img src="https://github.com/irahulcse/Instagroot_App_Flutter/blob/master/images/rovers.jpg" height="500em" /> -->
 
 #### 32 - Flutter Food Application :
 
 
 **Source Code of Project :point_right: [link](https://github.com/irahulcse/Flutter-Food-App)**
 
-<img src="https://github.com/irahulcse/Flutter-Food-/blob/master/images/rovers.jpg" height="500em" />
+<!-- <img src="https://github.com/irahulcse/Flutter-Food-/blob/master/images/rovers.jpg" height="500em" /> -->
 
 
 #### 31 - Flutter RxDart GitHub Search API :
@@ -298,28 +298,28 @@ Integerated Firebase Authentication and tested using the Flutter Web. Easy to in
 
 **Source Code of Project :point_right: [link](https://github.com/irahulcse/Rx_Dart_Github_Search_Api)**
 
-<img src="https://github.com/irahulcse/Rx_Dart_Github_Search_Api/blob/master/images/rovers.jpg" height="500em" />
+<!-- <img src="https://github.com/irahulcse/Rx_Dart_Github_Search_Api/blob/master/images/rovers.jpg" height="500em" /> -->
 
 #### 30 - Flutter Chyker Foods Applictation:
 
 
 **Source Code of Project :point_right: [link](https://github.com/irahulcse/Chyker-Food-s-App)**
 
-<img src="https://github.com/irahulcse/Chyker-Food-s-App/blob/master/images/rovers.jpg" height="500em" />
+<!-- <img src="https://github.com/irahulcse/Chyker-Food-s-App/blob/master/images/rovers.jpg" height="500em" /> -->
 
 #### 29 - Flutter Instagram Shared Application:
 
 
 **Source Code of Project :point_right: [link](https://github.com/irahulcse/Flutter-Instagram-Share)**
 
-<img src="https://github.com/irahulcse/Flutter-Instagram-Share/blob/master/images/rovers.jpg" height="500em" />
+<!-- <img src="https://github.com/irahulcse/Flutter-Instagram-Share/blob/master/images/rovers.jpg" height="500em" /> -->
 
 #### 28 - Flutter Adobe XD:
 
 
 **Source Code of Project :point_right: [link](https://github.com/irahulcse/Flutter_Adobe_XD)**
 
-<img src="https://github.com/irahulcse/Flutter_Adobe_XD/blob/master/images/rovers.jpg" height="500em" />
+<!-- <img src="https://github.com/irahulcse/Flutter_Adobe_XD/blob/master/images/rovers.jpg" height="500em" /> -->
 
 #### 27 - Flutter Widgets Online Project :
 
