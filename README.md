@@ -39,6 +39,25 @@ A a Pre-Final Year Computer Science Student, an experienced Software Developer w
 
 ### Live Working Project:
 
+#### 57 - Flutter-Stock Market-Predictions:
+
+Created the Flutter Stock Market Prediction using the TradingView API's.
+
+<!-- 
+#### Unique Features of the Application:
+* [✅] Used Kaggle Dataset of different fruits.
+* [✅] Average Accuracy is around 85%.
+* [✅] Tensorflow Lite had been used to do the classification.
+* [✅] Trained the data on more than 50000  images of different fruits.
+* [✅] Tensorflow Lite had been used to do the classification. -->
+
+Everything is working quite fine and intutive.
+
+<!-- **Deployed Link :point_right: [link](https://irahulcse.github.io/Flutter_Pokemon_App/)** -->
+
+**Source Code of Project :point_right: [link](https://github.com/irahulcse/Flutter-Stock-Market-Prediction)**
+
+<img src="https://github.com/irahulcse/Flutter-Stock-Market-Prediction/blob/main/images/rovers2.jpg" height="500em" />
 
 #### 56 - Tensorflow-Fruits-Classifier-using-Flutter:
 
