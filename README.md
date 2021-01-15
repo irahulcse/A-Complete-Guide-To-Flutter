@@ -57,7 +57,7 @@ Everything is working quite fine and intutive.
 
 **Source Code of Project :point_right: [link](https://github.com/irahulcse/Flutter-Stock-Market-Prediction)**
 
-<img src="https://github.com/irahulcse/Flutter-Stock-Market-Prediction/blob/main/images/rovers2.jpg" height="500em" />
+<img src="https://github.com/irahulcse/Flutter-Stock-Market-Prediction/blob/main/images/rovers2.jpg " height="500em" />
 
 #### 56 - Tensorflow-Fruits-Classifier-using-Flutter:
 
