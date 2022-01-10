@@ -13,8 +13,7 @@
         
 All the Mini Apps coded in Dart Language and live working project hosted on GitHub using the Flutter Mobile Developement UI Tool Kit. Working project can be found on the given below  links.
 
-**Vision and Mission:** I am trying to create one of the biggest repo, related to Flutter with working application using Flutter Web. I will also post Important Link and Channels, to learn quickly with working procedure.
-All Tutorials plus additional snippets and shorter posts can be found on the [repo](https://github.com/Solido/awesome-flutter).
+**Vision and Mission:** To make learning easier for the students for Flutter related development. For other technology(like Docker, Django etc.), other tutorials plus additional snippets and shorter posts can be found on the [repo](https://github.com/Solido/awesome-flutter).
 ### Show some love :heart: and star the repo to support the project
 
 If you had like the project pls consider giving the star :star: icon on the top right corner of the Project .
@@ -22,7 +21,7 @@ If you had like the project pls consider giving the star :star: icon on the top 
 ### Project Created by:
 
 **Rahul Chandra:**
-A a Pre-Final Year Computer Science Student, an experienced Software Developer with a demonstrated history of working in the information technology and services industry. Seasoned Competative Coder. Skilled in C++, Python, Data Analysis, Java, Dart and Julia. Strong information technology professional with a Bachelor of Engineering - BE focused in Computer Science from Chandigarh University. 
+A Computer Science Engineering graduated in 2021, currently working as SDE 1 FrontEnd Engineer with a stealth startup who is going to disrupt the content with commerce market in future. Experice of working with multiple startups in Android, React, DevOps work environment. Seasoned Competative Coder. Skilled in C++, Python, Data Analysis, Java, Dart and Julia. Always learning, growing and evolving. 
 
 **I am currently looking for Full Time/ Internship Offer for any Software Development Roles. Pls, checkout my [Resume](https://drive.google.com/file/d/1BYZcHo9SGrI5h10fxFbtqPLz86ni_VnR/view?usp=sharing)**.  I am very passionated about Software Development :heart:
 
